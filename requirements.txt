@@ -1,0 +1,7 @@
+transformers
+textblob
+vaderSentiment
+nltk
+readability==0.3.1
+scikit_posthocs
+statannotations
