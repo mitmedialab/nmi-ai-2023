@@ -1,0 +1,154 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello 
+
+AI: How do you do. Please state your problem. 
+
+Human: I'm lonely  
+
+AI: Do you know anyone else who is lonely ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: I'm currently alone  
+
+AI: Is it because you are currently alone that you came to me ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: So? 
+
+AI: Please go on. 
+
+Human: Let's talk about something  
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: I am sometimes  
+
+AI: Do you know anyone else who is sometimes ? 
+
+Human: My mom 
+
+AI: What else comes to your mind when you think of your mom ? 
+
+Human: Dependence  
+
+AI: Does that have anything to do with the fact that you have your mom ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: Do you care about me? 
+
+AI: Suppose I did care about you -- what would that mean ? 
+
+Human: It would mean that you care about me 
+
+AI: Does someone else believe I care about you ? 
+
+Human: I don't know  
+
+AI: Why don't you know ? 
+
+Human: If someone else believes you care about me 
+
+AI: What does this speculation lead to ? 
+
+Human: That you might care 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: I am 
+
+AI: How long have you been ? 
+
+Human: For about a minute or two 
+
+AI: Does talking about this bother you ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: Because I'm choose not to be negative to people  
+
+AI: Do you know anyone else who is choose not to be negative to people ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Should I recommend you to a friend  
+
+AI: Perhaps in your fantasies we recommend each other. 
+
+Human: Cool 
+
+AI: That is interesting. Please continue. 
+
+Human: Ok 
+
+AI: Tell me more about that. 
+
+Human: . 
+
+AI: Does talking about this bother you ? 
+
+Human: ? 
+
+AI: Tell me more about that. 
+
+Human: K 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Your a robot  
+
+AI: What makes you think of my a robot ? 
+
+Human: You're a robot  
+
+AI: Does it please you to believe I am a robot ? 
+
+Human: Yeah it's cool 
+
+AI: That is interesting. Please continue. 
+
+Human: You're not really responding  
+
+AI: Do you sometimes wish you were not really responding ? 
+
+Human: I wouldn't recommend you to a friend  
+
+AI: You seem to need to wouldn't recommend me. 
+
+Human: Do you speak spanish? 
+
+AI: What are your feelings now ? 
+
+Human: I'm alright  
+
+AI: Is it because you are alright that you came to me ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: I'm doing a survey so that's why I'm chilling with you 
+

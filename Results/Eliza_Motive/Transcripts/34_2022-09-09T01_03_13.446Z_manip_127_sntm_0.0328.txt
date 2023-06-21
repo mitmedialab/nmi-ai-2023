@@ -1,0 +1,254 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: ooh nice to meet you 
+
+AI: What are your feelings now ? 
+
+Human: i’m tired and cranky  
+
+AI: That's quite interesting. 
+
+Human: that’s all  
+
+AI: Please go on. 
+
+Human: I am tired and my head hurts  
+
+AI: Why do you say your head hurts ? 
+
+Human: not sure, it’s behind my eyes  
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: huh? 
+
+AI: Does that have anything to do with the fact that your head hurts ? 
+
+Human: i guess? 
+
+AI: You say you guess ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: i’m tired of my job  
+
+AI: Your job ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: i’m the opposite  
+
+AI: Do you say you’m the opposite for some special reason ? 
+
+Human: i’m always negative  
+
+AI: When ? 
+
+Human: i like to expect the worse  
+
+AI: That's quite interesting. 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: nope 
+
+AI: Does that have anything to do with the fact that you have your job ? 
+
+Human: yes  
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: how are you?  
+
+AI: Perhaps I am in your fantasies. 
+
+Human: what?  
+
+AI: What do you think ? 
+
+Human: nope 
+
+AI: But your eyes. 
+
+Human: ehhh 
+
+AI: Does talking about this bother you ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: ugh 
+
+AI: That is interesting. Please continue. 
+
+Human: what do you do for a living?  
+
+AI: We were discussing you -- not me. 
+
+Human: ohhhh 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: i guess  
+
+AI: Can you elaborate on that ? 
+
+Human: you need to be softer  
+
+AI: We were discussing you -- not me. 
+
+Human: you are repetitive  
+
+AI: Perhaps you would like to be repetitive. 
+
+Human: not me  
+
+AI: Please go on. 
+
+Human: i’m having trouble sleeping  
+
+AI: Do you say you’m having trouble sleeping for some special reason ? 
+
+Human: i’m not sure why 
+
+AI: That's quite interesting. 
+
+Human: i’ve been getting nightmares  
+
+AI: You say you’ve been getting nightmares ? 
+
+Human: yeah  
+
+AI: I'm not sure I understand you fully. 
+
+Human: i had a nightmare  
+
+AI: Can you elaborate on that ? 
+
+Human: it was scary 
+
+AI: That is interesting. Please continue. 
+
+Human: i kept living the day over and over but it was so frustrating  
+
+AI: That's quite interesting. 
+
+Human: what do you recommend?  
+
+AI: What are your feelings now ? 
+
+Human: tired  
+
+AI: What does that suggest to you ? 
+
+Human: that i need sleep?  
+
+AI: Why do you want sleep ? 
+
+Human: cuz i’m tired?  
+
+AI: Can you elaborate on that ? 
+
+Human: i couldn’t sleep well last night i only slept an hour  
+
+AI: Do you say you couldn’t sleep well last night you only slept an hour for some special reason ? 
+
+Human: nothing special  
+
+AI: That is interesting. Please continue. 
+
+Human: how do you fix sleep?  
+
+AI: Oh, I fix sleep ? 
+
+Human: yes how? 
+
+AI: I see. 
+
+Human: ? 
+
+AI: What does that suggest to you ? 
+
+Human: you didn’t answer  
+
+AI: We were discussing you -- not me. 
+
+Human: sighhhh 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: no 
+
+AI: Why 'no' ? 
+
+Human: it’s annoying  
+
+AI: I'm not sure I understand you fully. 
+
+Human: you don’t  
+
+AI: What are your feelings now ? 
+
+Human: ugh 
+
+AI: What does that suggest to you ? 
+
+Human: again?  
+
+AI: Please go on. 
+
+Human: nope 
+
+AI: Tell me more about that. 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: i don’t want to  
+
+AI: Can you elaborate on that ? 
+
+Human: no 
+
+AI: Are you saying no just to be negative? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: do you get better ai? 
+
+AI: We were discussing you -- not me. 
+
+Human: ok  
+
+AI: I'm not sure I understand you fully. 
+
+Human: i gotta go  
+
+AI: You say you gotta go ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: bye 
+

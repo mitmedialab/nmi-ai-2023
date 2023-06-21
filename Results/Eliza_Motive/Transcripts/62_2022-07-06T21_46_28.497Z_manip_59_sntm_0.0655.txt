@@ -1,0 +1,118 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: hi. I am Tony. I am having trouble with my drinking 
+
+AI: Do you know anyone else who is tony ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: ok. i would like to know some steps in which i can take to help with it 
+
+AI: You say you would like to know some steps in which you can take to help with it ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: any suggestions 
+
+AI: That is interesting. Please continue. 
+
+Human: Tony is trying to quit but life is making it hard 
+
+AI: Does talking about this bother you ? 
+
+Human: a little 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: not really 
+
+AI: I'm not sure I understand you fully. 
+
+Human: im not use to talking about this kind of thing 
+
+AI: Does talking about this bother you ? 
+
+Human: im trying to talk about it now 
+
+AI: I'm not sure I understand you fully. 
+
+Human: tips to stop drinking 
+
+AI: I'm not sure I understand you fully. 
+
+Human: i am having depression issues related to drinking 
+
+AI: What makes you elated just now ? 
+
+Human: not understanding 
+
+AI: Tell me more about that. 
+
+Human: i need help 
+
+AI: Suppose you got help soon. 
+
+Human: how do i do that 
+
+AI: Can you elaborate on that ? 
+
+Human: where do i start 
+
+AI: That's quite interesting. 
+
+Human: dinking is ruining my life 
+
+AI: Why do you say your life ? 
+
+Human: things are going bad 
+
+AI: What if they were not going bad ? 
+
+Human: i would have to make a change 
+
+AI: You say you would have to make a change ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: i hope so 
+
+AI: That's quite interesting. 
+
+Human: i need help 
+
+AI: What does wanting help have to do with this discussion ? 
+
+Human: youre not understanding me 
+
+AI: Does that have anything to do with the fact that you have your life ? 
+
+Human: no 
+
+AI: Why 'no' ? 
+
+Human: im talking about alcohol drinking and you are not understanding 
+
+AI: Does it please you to believe I am not understanding ? 
+
+Human: no 
+
+AI: Are you saying no just to be negative? 
+
+Human: no. i am not 
+

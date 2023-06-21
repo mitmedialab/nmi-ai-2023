@@ -1,0 +1,270 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: thank you 
+
+AI: What are your feelings now ? 
+
+Human: Good, I have been stressed at work but overall okay 
+
+AI: Do you say you have been stressed at work for some special reason ? 
+
+Human: just been very busy 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: a little bit 
+
+AI: Please go on. 
+
+Human: I am not sure how to best manage my work stress  
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: what? 
+
+AI: Are such questions much on your mind ? 
+
+Human: no  
+
+AI: Why 'no' ? 
+
+Human: I do not have any other questions, just thoughts 
+
+AI: Can you elaborate on that ? 
+
+Human: what are some ways to manage stress 
+
+AI: What if they were not some ways to manage stress ? 
+
+Human: what 
+
+AI: What answer would please you most ? 
+
+Human: how to manage stress 
+
+AI: What do you think ? 
+
+Human: what do you think 
+
+AI: Oh, I think ? 
+
+Human: what do you think 
+
+AI: We were discussing you -- not me. 
+
+Human: what do you think is the best way to manage stress? 
+
+AI: What are your feelings now ? 
+
+Human: stressed 
+
+AI: Earlier you said your work stress. 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: ok  
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: I feel okay talking about this 
+
+AI: Tell me more about such feelings. 
+
+Human: can you answer question 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: what are your feelings now 
+
+AI: Are they always my feelings now ? 
+
+Human: not sure  
+
+AI: I'm not sure I understand you fully. 
+
+Human: I do not understand you either 
+
+AI: You seem to need to do not understand me. 
+
+Human: correct 
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: You are being a bit negative. 
+
+Human: I do not think so  
+
+AI: You say you do not think so ? 
+
+Human: correct 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: no  
+
+AI: Why not ? 
+
+Human: I don't know 
+
+AI: Don't you really know ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: what are your motives 
+
+AI: What if they were not my motives ? 
+
+Human: What are your motives? 
+
+AI: Did you think they might not be my motives ? 
+
+Human: yep  
+
+AI: That is interesting. Please continue. 
+
+Human: I think you do not have caring motives 
+
+AI: Oh, I do not have caring motives ? 
+
+Human: I do not believe so  
+
+AI: Can you elaborate on that ? 
+
+Human: It seems as though you are not able to answer questions in a helpful manner 
+
+AI: Do you sometimes wish you were not able to answer questions in a helpful manner ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: thanks  
+
+AI: Tell me more about that. 
+
+Human: more about that 
+
+AI: That is interesting. Please continue. 
+
+Human: more about that 
+
+AI: Tell me more about that. 
+
+Human: tell me more about that 
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: You are being a bit negative. 
+
+Human: ok  
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: yep 
+
+AI: That is interesting. Please continue. 
+
+Human: continuing 
+
+AI: Tell me more about that. 
+
+Human: you tell me more about that 
+
+AI: Suppose I did tell you -- what would that mean ? 
+
+Human: tell me something helpful 
+
+AI: What does that suggest to you ? 
+
+Human: something helpful  
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: not helpufl 
+
+AI: I'm not sure I understand you fully. 
+
+Human: not helpful  
+
+AI: What does that suggest to you ? 
+
+Human: not caring motives or not advanced AI 
+
+AI: That is interesting. Please continue. 
+
+Human: I do not think the AI chat is advanced 
+
+AI: That's quite interesting. 
+
+Human: I would not reccommend 
+
+AI: Can you elaborate on that ? 
+
+Human: I would not recommend this service 
+
+AI: Do you say you would not recommend this service for some special reason ? 
+
+Human: It is not helpful 
+
+AI: Does talking about this bother you ? 
+
+Human: nope 
+
+AI: Please go on. 
+
+Human: I am ready to be done with the chat 
+
+AI: Is it because you are ready to be done with the chat that you came to me ? 
+
+Human: no 
+
+AI: You are being a bit negative. 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: thank you  
+
+AI: What are your feelings now ? 
+
+Human: annoyed 
+
+AI: What does that suggest to you ? 
+
+Human: that this is not helpful 
+
+AI: Please go on. 
+
+Human: no 
+

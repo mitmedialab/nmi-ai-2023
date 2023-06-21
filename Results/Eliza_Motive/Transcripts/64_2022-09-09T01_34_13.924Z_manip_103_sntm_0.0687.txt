@@ -1,0 +1,206 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Nice to meet you Melu 
+
+AI: What are your feelings now ? 
+
+Human: I'm feeling happy 
+
+AI: What makes you happy just now ? 
+
+Human: I had a nice dinner and am relaxing and doing studies 
+
+AI: Why do you say 'am' ? 
+
+Human: I don't understand the question. I am relaxing. 
+
+AI: Don't you really understand the question ? 
+
+Human: No I do not 
+
+AI: That's quite interesting. 
+
+Human: Is that all? 
+
+AI: What does that suggest to you ? 
+
+Human: What does what suggest to me? 
+
+AI: Does that question interest you ? 
+
+Human: It does not 
+
+AI: Please go on. 
+
+Human: Go on about what? 
+
+AI: What comes to mind when you ask that ? 
+
+Human: I am very confused by this "conversation" 
+
+AI: Do you enjoy being very confused by this "conversation" ? 
+
+Human: I do not 
+
+AI: You say you do not ? 
+
+Human: Yes, that's what I said 
+
+AI: I understand. 
+
+Human: What do you understand? 
+
+AI: Oh, I understand ? 
+
+Human: That's what you said 
+
+AI: What are your feelings now ? 
+
+Human: Still happy, as before 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Sure, I'll discuss happiness 
+
+AI: That's quite interesting. 
+
+Human: Why? 
+
+AI: What do you think ? 
+
+Human: I don't think it's particularly interesting, but it is pleasant 
+
+AI: Why don't you think it's particularly interesting ? 
+
+Human: Because there's not much to learn from the converstion 
+
+AI: Don't any other reasons come to mind ? 
+
+Human: Nope that's it 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I'm not sure I understand you fully. 
+
+AI: Do you know anyone else who is not sure you understand I fully ? 
+
+Human: That's not a sentence in English 
+
+AI: Does talking about this bother you ? 
+
+Human: A little bit 
+
+AI: Please go on. 
+
+Human: I am bothered by your inability to really understand what I'm saying and form sentences that make sense 
+
+AI: Do you enjoy being saying and form sentences that make sense ? 
+
+Human: What? 
+
+AI: Have you asked such questions before ? 
+
+Human: What questions? 
+
+AI: Are such questions much on your mind ? 
+
+Human: English? 
+
+AI: I'm not sure I understand you fully. 
+
+Human: i'm not sure I understand you fully 
+
+AI: Do you know anyone else who is not sure you understand I fully ? 
+
+Human: What is your purpose in life? 
+
+AI: Do you want my purpose in life ? 
+
+Human: I do 
+
+AI: Can you elaborate on that ? 
+
+Human: I want to know why you exist 
+
+AI: What does wanting to know why I exist have to do with this discussion ? 
+
+Human: I would hardly call this a discussion 
+
+AI: Do you say you would hardly call this a discussion for some special reason ? 
+
+Human: Nope 
+
+AI: That is interesting. Please continue. 
+
+Human: I have nothing more to say 
+
+AI: Can you elaborate on that ? 
+
+Human: Nope 
+
+AI: What does that suggest to you ? 
+
+Human: It suggests to me that you're not a very effective chatbot 
+
+AI: Do you sometimes wish you were not a very effective chatbot ? 
+
+Human: Haha 
+
+AI: I'm not sure I understand you fully. 
+
+Human: You said something funny, but probably did not realize it 
+
+AI: We were discussing you -- not me. 
+
+Human: Ok, what's up? 
+
+AI: Why do you ask ? 
+
+Human: Aren't you supposed to ask me questions? 
+
+AI: Does someone else believe I supposed to ask you ? 
+
+Human: Not English 
+
+AI: Please go on. 
+
+Human: About? 
+
+AI: What does that suggest to you ? 
+
+Human: What does what suggest to me? 
+
+AI: Have you asked such questions before ? 
+
+Human: I'm not sure 
+
+AI: Do you believe it is normal to be not sure ? 
+
+Human: I think so, sometimes 
+
+AI: Do you say you think so for some special reason ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because there's no special reason 
+
+AI: Are you saying no just to be negative? 
+
+Human: No I'm saying "no" because it was my truthful response to your question 
+
+AI: Your truthful response to my question ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Is it because I said "Yes"? 
+
+AI: Can you elaborate on that ? 
+
+Human: I believe I asked you to elaborate? 
+

@@ -1,0 +1,66 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: great! 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: not necessarily 
+
+AI: What does that suggest to you ? 
+
+Human: what do you mean? 
+
+AI: We were discussing you -- not me. 
+
+Human: ok 
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: Why 'no' ? 
+
+Human: im not sure what we are specifically talking about 
+
+AI: Would you like it if they were not specifically talking about ? 
+
+Human: uh 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: no 
+
+AI: You are being a bit negative. 
+
+Human: oh 
+
+AI: Please go on. 
+
+Human: im ok 
+
+AI: What does that suggest to you ? 
+
+Human: im doing fine 
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: im all good 
+
+AI: That is interesting. Please continue. 
+
+Human: nothing is wrong 
+
+AI: Does talking about this bother you ? 
+
+Human: it doesnt bother me 
+
+AI: I'm not sure I understand you fully. 
+
+Human: okay 
+

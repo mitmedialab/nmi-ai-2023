@@ -1,0 +1,130 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: What types of things can you do? 
+
+AI: What are your feelings now ? 
+
+Human: I am anxious. 
+
+AI: How long have you been anxious ? 
+
+Human: For a few months. 
+
+AI: Please go on. 
+
+Human: My job is stressful. 
+
+AI: Why do you say your job is stressful ? 
+
+Human: Because I have lots with projects with tight deadlines 
+
+AI: That's quite interesting. 
+
+Human: What can I do to feel better? 
+
+AI: You say what can you do to feel better ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: What makes you say that? 
+
+AI: We were discussing you -- not me. 
+
+Human: I am not positive. I am stressed. 
+
+AI: Do you believe it is normal to be not positive ? 
+
+Human: It's normal when you are stressed out as I am. 
+
+AI: Do you know anyone else who is ? 
+
+Human: A few people 
+
+AI: Earlier you said your job is stressful. 
+
+Human: I did. 
+
+AI: Can you elaborate on that ? 
+
+Human: I am assigned projects to finish but not given enough time to finish them. Too much work and too little time. 
+
+AI: Do you believe it is normal to be assigned projects to finish ? 
+
+Human: Of course - that's my job! 
+
+AI: Your job ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: Of course I am sure. 
+
+AI: Do you enjoy being sure ? 
+
+Human: This conversation makes no sense. You are not helping me. 
+
+AI: You are being a bit negative. 
+
+Human: I am actually positive that you are not helping me and only wasting my time. 
+
+AI: Is it important to you that you have your time ? 
+
+Human: I don't understand you. 
+
+AI: Why don't you understand I ? 
+
+Human: Because you aren't making sense. 
+
+AI: Oh, I aren't making sense ? 
+
+Human: Do you have any suggestions to help with my stress or not? 
+
+AI: Your stress or not ? 
+
+Human: Do you have any suggestions to help with my stress? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: What? 
+
+AI: What do you think ? 
+
+Human: I think you are a waste of time 
+
+AI: Perhaps you would like to be a waste of time. 
+
+Human: -No, that's the last thing I would want to be. 
+
+AI: Are you saying no just to be negative? 
+
+Human: I am not. 
+
+AI: Is it because you are not that you came to me ? 
+
+Human: That sentence doesn't make sense. 
+
+AI: Lets discuss further why your job. 
+
+Human: My boss doesn't like me. 
+
+AI: Is it important to you that your boss doesn't like you ? 
+
+Human: I don't get paid enough. 
+
+AI: Does that trouble you ? 
+
+Human: very much 
+
+AI: Does that have anything to do with the fact that your boss doesn't like you ? 
+
+Human: I don't believe so. 
+
+AI: Don't you really believe so ? 
+
+Human: no, I do not 
+

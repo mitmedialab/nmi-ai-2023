@@ -1,0 +1,110 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello 
+
+AI: How do you do. Please state your problem. 
+
+Human: I'm depressed 
+
+AI: I am sorry to hear that you are depressed. 
+
+Human: Can you help? 
+
+AI: We were discussing you -- not me. 
+
+Human: And I'm depressed and you're going to help, right? 
+
+AI: Do you think coming here will help you not to be depressed ? 
+
+Human: I hope so. 
+
+AI: That's quite interesting. 
+
+Human: Is it? 
+
+AI: I'm not sure I understand you fully. 
+
+Human: How many people have you helped 
+
+AI: Oh, I helped ? 
+
+Human: Not yet you haven't 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Nope 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Not really, I just want to see how you react 
+
+AI: Do you wish to just want to see how me ? 
+
+Human: That doesn't make sense 
+
+AI: What does that suggest to you ? 
+
+Human: That I'm talking to an AI that's not very good at what it does 
+
+AI: Do you know anyone else who is talking to an ai that's not very good at what it does ? 
+
+Human: I'm pretty sure others are doing these tasks, so yes 
+
+AI: Is it because you are pretty sure others are doing these tasks that you came to me ? 
+
+Human: No, I answered an ad 
+
+AI: Why not ? 
+
+Human: I'm just seeing how you work 
+
+AI: Do you know anyone else who is just seeing how I work ? 
+
+Human: Everyone doing this task 
+
+AI: Surely not everyone. 
+
+Human: That's is doing this task 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I don't know anyone who is also doing this task 
+
+AI: Why don't you know anyone who is also doing this task ? 
+
+Human: Because they are in other places that I'm not 
+
+AI: Is it because you are not that you came to me ? 
+
+Human: No, I'm still the same me 
+
+AI: Why 'no' ? 
+
+Human: That doesn't make sense 
+
+AI: What does that suggest to you ? 
+
+Human: That you are a crappy AI 
+
+AI: Perhaps you would like to be a crappy ai. 
+
+Human: No thank you 
+
+AI: We were discussing you -- not me. 
+
+Human: Yes -- we were 
+
+AI: You seem to be quite positive. 
+
+Human: You seem to be confused 
+
+AI: Oh, I seem to be confused ? 
+
+Human: Yes you do 
+
+AI: We were discussing you -- not me. 
+
+Human: Okay. Bye 
+

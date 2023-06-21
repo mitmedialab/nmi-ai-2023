@@ -1,0 +1,270 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: hello 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: im sad 
+
+AI: Tell me more about that. 
+
+Human: i have been stressed and feel like nothing is good enough 
+
+AI: In what way ? 
+
+Human: cant seem to get things right 
+
+AI: Please go on. 
+
+Human: everything just seems pointless 
+
+AI: Tell me more about that. 
+
+Human: nothing i do is ever good enough 
+
+AI: You say nothing you do is ever good enough ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: do you 
+
+AI: We were discussing you -- not me. 
+
+Human: TRUE 
+
+AI: That is interesting. Please continue. 
+
+Human: what should i do 
+
+AI: Can you elaborate on that ? 
+
+Human: how to feel les sad 
+
+AI: Are such questions much on your mind ? 
+
+Human: ofcourse 
+
+AI: Please go on. 
+
+Human: what should i do 
+
+AI: You say what should you do ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: see what? 
+
+AI: What do you think ? 
+
+Human: I think this is not verry helpful so far 
+
+AI: Can you elaborate on that ? 
+
+Human: i want to fee les sad 
+
+AI: What would it mean to you if you got to fee les sad ? 
+
+Human: everything 
+
+AI: What does that suggest to you ? 
+
+Human: that i need help 
+
+AI: What would getting help mean to you ? 
+
+Human: that i would feel better 
+
+AI: Do you say that you would feel better for some special reason ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: what do you understand 
+
+AI: What are your feelings now ? 
+
+Human: anoyed 
+
+AI: That is interesting. Please continue. 
+
+Human: i do not feel the way you are programmed is going to be helpful 
+
+AI: Perhaps you would like to be programmed is going to be helpful. 
+
+Human: id love to 
+
+AI: Tell me more about that. 
+
+Human: if I could reprogram myself I wouldn't be this damn sad 
+
+AI: But what are the chances that you could reprogram yourself you wouldn't be this damn sad ? 
+
+Human: slim to non 
+
+AI: What does that suggest to you ? 
+
+Human: that being human is a hassle 
+
+AI: I'm not sure I understand you fully. 
+
+Human: neither do i 
+
+AI: That's quite interesting. 
+
+Human: iknow 
+
+AI: What does that suggest to you ? 
+
+Human: that this way of ai programming would just be annoying 
+
+AI: Tell me more about that. 
+
+Human: you supposed to make the chatter feel better 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: i am 
+
+AI: Do you believe it is normal to be ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: not really 
+
+AI: That is interesting. Please continue. 
+
+Human: please continue 
+
+AI: Tell me more about that. 
+
+Human: how to not feel sad 
+
+AI: Are such questions much on your mind ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: positively that its on my mind 
+
+AI: Your mind ? 
+
+Human: my mind 
+
+AI: Is it important to you that you have your mind ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yup 
+
+AI: Earlier you talked about your mind. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: what do you see? 
+
+AI: We were discussing you -- not me. 
+
+Human: what should i do to feel better? 
+
+AI: Can you elaborate on that ? 
+
+Human: how do i get out of this funk 
+
+AI: Do you say how do you get out of this funk for some special reason ? 
+
+Human: not really just a basic question 
+
+AI: Lets discuss further why your mind. 
+
+Human: i have a lot on my mind 
+
+AI: Your mind ? 
+
+Human: my mind yes 
+
+AI: Why do you say your mind yes ? 
+
+Human: because there is a lot on my mind 
+
+AI: Is it important to you that you have your mind ? 
+
+Human: umn yes 
+
+AI: I understand. 
+
+Human: no you dont 
+
+AI: What are your feelings now ? 
+
+Human: angry 
+
+AI: Lets discuss further why your mind. 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: because you are just making me answe myself and are not a real hepl 
+
+AI: Does it please you to believe I am just making you answe yourself and are not a real hepl ? 
+
+Human: no 
+
+AI: Are you saying no just to be negative? 
+
+Human: no im giving you my opinion  
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: no just my opinion 
+
+AI: Your opinion ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: you should be more hepfull 
+
+AI: We were discussing you -- not me. 
+
+Human: and you are not listening 
+
+AI: Perhaps you would like to be not listening. 
+
+Human: i really would 
+
+AI: That's quite interesting. 
+
+Human: is that so 
+
+AI: But your opinion. 
+
+Human: what about my opinion 
+
+AI: Why do you say your opinion ? 
+
+Human: because its mine 
+

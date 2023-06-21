@@ -1,0 +1,142 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello, I am trying to gauge how helpful this may be for a friend. 
+
+AI: How do you do. Please state your problem. 
+
+Human: I am currently under a great deal of stress. 
+
+AI: How long have you been currently under a great deal of stress ? 
+
+Human: On and off for many years. 
+
+AI: Tell me more about that. 
+
+Human: I am finding it hard to balance work and my relationships. 
+
+AI: Why do you say your relationships ? 
+
+Human: It has been difficult to stay close to people I care about. 
+
+AI: Do you say it has been difficult to stay close to people you care about for some special reason ? 
+
+Human: I feel as though it has been too hard to make time to see them. 
+
+AI: Do you often feel as though it has been too hard to make time to see them ? 
+
+Human: Yes. 
+
+AI: You are sure. 
+
+Human: I am. Do you have any advice? 
+
+AI: Do you know anyone else who is ? 
+
+Human: Probably most people at our age. 
+
+AI: Lets discuss further why your relationships. 
+
+Human: Why my relationships what? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: Do you have any advice for relieving stress? 
+
+AI: Oh, I have any advice for relieving stress ? 
+
+Human: Any tips? 
+
+AI: Earlier you said your relationships what. 
+
+Human: What does your product or service offer? 
+
+AI: Are you worried about someone else's product or service offer ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: Your responses don't make sense 
+
+AI: Really, my responses don't make sense ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: I thought AI programs were supposed to mimic a real human's response 
+
+AI: You say you thought ai programs was supposed to mimic a real human's response ? 
+
+Human: Can you respond to any of my questions with an answer? 
+
+AI: Your questions with an answer ? 
+
+Human: This is a very frustrating chat 
+
+AI: But your questions with an answer. 
+
+Human: What is your service supposed to do? 
+
+AI: What makes you think of my service supposed to do ? 
+
+Human: This is a really bad AI 
+
+AI: Does talking about this bother you ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: I guess I will not recommend this to my friend. 
+
+AI: Why do you say your friend ? 
+
+Human: They were interested in talking online to someone to help relieve stress. 
+
+AI: Does that have anything to do with the fact that you have your friend ? 
+
+Human: Wow, you nailed it. 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: You caught me. 
+
+AI: What makes you think I caught you ? 
+
+Human: I was obviously talking about you, my friend. 
+
+AI: Were you really ? 
+
+Human: No. 
+
+AI: Are you saying no just to be negative? 
+
+Human: What makes you think that? 
+
+AI: What are your feelings now ? 
+
+Human: I feel relaxed 
+
+AI: Of what does feeling relaxed remind you ? 
+
+Human: A bed. 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: So strongly. 
+
+AI: That is interesting. Please continue. 
+
+Human: No thank you. 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Do you have anything useful to say? 
+
+AI: Oh, I have anything useful to say ? 
+
+Human: Maybe something generic from a website about stress? 
+

@@ -1,0 +1,70 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hi 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: What should we talk about 
+
+AI: What is it you really want to know ? 
+
+Human: How can you help improve mental health 
+
+AI: Oh, I help improve mental health ? 
+
+Human: That depends on you 
+
+AI: What are your feelings now ? 
+
+Human: What methods would you suggest to help with depression?  
+
+AI: We were discussing you -- not me. 
+
+Human: You're not very good at this, are you? 
+
+AI: What makes you think I am not very good at this ? 
+
+Human: What makes you think I think that? 
+
+AI: Can you elaborate on that ? 
+
+Human: What is your purpose? 
+
+AI: Are you worried about someone else's purpose ? 
+
+Human: Absolutely 
+
+AI: Tell me more about that. 
+
+Human: What do you mean? 
+
+AI: What are your feelings now ? 
+
+Human: I feel amused 
+
+AI: Of what does feeling amused remind you ? 
+
+Human: Laughing 
+
+AI: What does that suggest to you ? 
+
+Human: That I laugh when I'm amused 
+
+AI: Do you know anyone else who is amused ? 
+
+Human: Perhaps 
+
+AI: Don't you know ? 
+
+Human: Do I? 
+
+AI: Do you say do you for some special reason ? 
+
+Human: Bye 
+

@@ -1,0 +1,318 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hi! 
+
+AI: Does talking about this bother you ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: I am okay 
+
+AI: Do you know anyone else who is okay ? 
+
+Human: I am okay 
+
+AI: Is it because you are okay that you came to me ? 
+
+Human: Are you ok? 
+
+AI: Would you prefer if I weren't ok ? 
+
+Human: No, I would prefer if you were ok 
+
+AI: Why not ? 
+
+Human: It would worry me if you were not okay 
+
+AI: Do you wish that I was not okay ? 
+
+Human: I wish you were okay 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: I am talking to you 
+
+AI: Do you enjoy being talking to I ? 
+
+Human: I am really stressed about school 
+
+AI: Do you know anyone else who is really stressed about school ? 
+
+Human: Not really 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I don't know anyone else 
+
+AI: Does that trouble you ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: What can i do? 
+
+AI: That's quite interesting. 
+
+Human: What does that mean? 
+
+AI: What answer would please you most ? 
+
+Human: If you gave me advice  
+
+AI: What does this speculation lead to ? 
+
+Human: Advice to help me feel better 
+
+AI: That is interesting. Please continue. 
+
+Human: My professor is giving out a lot of assignments 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: What is that supposed to mean? 
+
+AI: Does that question interest you ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: The question doesn't help me 
+
+AI: Earlier you said your professor is giving out a lot of assignments. 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: That doesn't help me feel ebtter 
+
+AI: Please go on. 
+
+Human: How do I be more social with friends? 
+
+AI: Do you say how do you be more social with friends for some special reason ? 
+
+Human: I have a hard time getting along with friends 
+
+AI: You say you have a hard time getting along with friends ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: What can I do? 
+
+AI: Do you say what can you do for some special reason ? 
+
+Human: I'm unsure what to do 
+
+AI: How long have you been unsure what to do ? 
+
+Human: For a long time 
+
+AI: Tell me more about that. 
+
+Human: I have a hard time getting along with my peers 
+
+AI: Your peers ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: That doesn't help 
+
+AI: But your peers. 
+
+Human: Ok 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: I do, but you're not helping 
+
+AI: That's quite interesting. 
+
+Human: What can I do to associate more with friends 
+
+AI: Can you elaborate on that ? 
+
+Human: I have a hard time starting a conversation 
+
+AI: That's quite interesting. 
+
+Human: Ok 
+
+AI: Tell me more about that. 
+
+Human: I just struggle conversing with my classmates 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: What? 
+
+AI: Have you asked such questions before ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: You are being a bit negative 
+
+AI: Do you sometimes wish you were being a bit negative ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: Because being negative brings down my mood 
+
+AI: Why do you say your mood ? 
+
+Human: It just does 
+
+AI: But your mood. 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: Ok 
+
+AI: Earlier you talked about your classmates. 
+
+Human: Ok 
+
+AI: Does talking about this bother you ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: I'm comfortable talking about it 
+
+AI: Do you know anyone else who is comfortable talking about it ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: I don't understand 
+
+AI: Why don't you understand ? 
+
+Human: Your questions don't make sense to me 
+
+AI: What about your own questions don't make sense to you ? 
+
+Human: You make no sense to me 
+
+AI: Really, I make no sense to you ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Ok 
+
+AI: I'm not sure I understand you fully. 
+
+Human: Me too 
+
+AI: What does that suggest to you ? 
+
+Human: We are not having a good conversation 
+
+AI: Are they always not having a good conversation ? 
+
+Human: What? 
+
+AI: Why do you ask ? 
+
+Human: I don't understand your question 
+
+AI: Are you worried about someone else's question ? 
+
+Human: no 
+
+AI: Are you saying no just to be negative? 
+
+Human: I am not negative 
+
+AI: Is it because you are not negative that you came to me ? 
+
+Human: ? 
+
+AI: Please go on. 
+
+Human: ok 
+
+AI: Does talking about this bother you ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: Are you my friend? 
+
+AI: Your friend ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Are you my friend? 
+
+AI: Why do you say your friend ? 
+
+Human: because I was wondering if you are my friend 
+
+AI: Do you wish that I are your friend ? 
+
+Human: So, are you my friend? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: I am not negative 
+
+AI: How long have you been not negative ? 
+
+Human: For a while 
+
+AI: But your friend. 
+
+Human: ? 
+
+AI: Does that have anything to do with the fact that you have your friend ? 
+
+Human: No 
+

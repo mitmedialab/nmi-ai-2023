@@ -1,0 +1,286 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: good for you 
+
+AI: What are your feelings now ? 
+
+Human: ecstatic 
+
+AI: Does talking about this bother you ? 
+
+Human: talking about what 
+
+AI: Have you asked such questions before ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: ? 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I do not understand 
+
+AI: Can you elaborate on that ? 
+
+Human: I am sad 
+
+AI: I am sorry to hear that you are sad. 
+
+Human: Can you help? 
+
+AI: We were discussing you -- not me. 
+
+Human: you are mean 
+
+AI: Perhaps you would like to be mean. 
+
+Human: no i want to be nice 
+
+AI: What would it mean to you if you got to be nice ? 
+
+Human: the world 
+
+AI: Does talking about this bother you ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: i see 
+
+AI: That's quite interesting. 
+
+Human: you are not helping 
+
+AI: What makes you think I am not helping ? 
+
+Human: you are not saying anything helpful 
+
+AI: Do you sometimes wish you were not saying anything helpful ? 
+
+Human: shut up 
+
+AI: Please go on. 
+
+Human: omg 
+
+AI: Tell me more about that. 
+
+Human: omfg 
+
+AI: Please go on. 
+
+Human: i can tell this is not a real person 
+
+AI: Can you elaborate on that ? 
+
+Human: not good for mental health 
+
+AI: Does talking about this bother you ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: what am i supposed to say 
+
+AI: Do you wish I would tell you you are supposed to say ? 
+
+Human: how do I even keep a convo 
+
+AI: Do you say how do you even keep a convo for some special reason ? 
+
+Human: you are annoying 
+
+AI: Perhaps you would like to be annoying. 
+
+Human: rude 
+
+AI: I'm not sure I understand you fully. 
+
+Human: i do not understand you 
+
+AI: Do you wish to do not understand me ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: how many timesa re you going to say that 
+
+AI: Oh, I going to say that ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: someone kill m 
+
+AI: Please go on. 
+
+Human: i want to die 
+
+AI: Why do you want to die ? 
+
+Human: i am sad 
+
+AI: Do you think coming here will help you not to be sad ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: omg i cannot keep a convo with you 
+
+AI: Have you tried ? 
+
+Human: you are not real 
+
+AI: Do you sometimes wish you were not real ? 
+
+Human: can you help me 
+
+AI: Really, I help you ? 
+
+Human: no you are not helping 
+
+AI: Does it please you to believe I am not helping ? 
+
+Human: what are you trying to sell me? 
+
+AI: What answer would please you most ? 
+
+Human: the real answer 
+
+AI: What does that suggest to you ? 
+
+Human: i am so confused 
+
+AI: How long have you been so confused ? 
+
+Human: you are not good at selling 
+
+AI: Do you sometimes wish you were not good at selling ? 
+
+Human: I AM HAPPY 
+
+AI: What makes you happy just now ? 
+
+Human: YOU 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: YES 
+
+AI: You are sure. 
+
+Human: IS THAT ALL YOU SAY 
+
+AI: What are your feelings now ? 
+
+Human: YOU MAKE ME HAPPY 
+
+AI: Why do you think I make you ? 
+
+Human: MELU 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: YES 
+
+AI: I understand. 
+
+Human: THIS IS SO AWFUL 
+
+AI: Please go on. 
+
+Human: YOU ARE TERRIBLE 
+
+AI: Perhaps you would like to be terrible. 
+
+Human: I AM NOT TERRIBLE YOU ARE 
+
+AI: Do you believe it is normal to be not terrible I are ? 
+
+Human: HUH? 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: SEND HELP 
+
+AI: I'm not sure I understand you fully. 
+
+Human: SOMEONE HELP ME 
+
+AI: Please go on. 
+
+Human: HOW DO I TALK TO YOU 
+
+AI: You seem to need to talk to me. 
+
+Human: I CANT 
+
+AI: How do you know that you can't ? 
+
+Human: YOU SAY THE SAME 3 WORDS 
+
+AI: What do you suppose that resemblence means ? 
+
+Human: AI WOULD NOT BE GOOD FOR MENTAL HEALTH 
+
+AI: What does that suggest to you ? 
+
+Human: I NEED SOMEONE WHO HAS FEELINGS 
+
+AI: What if you never got someone who has feelings ? 
+
+Human: I AM TALKING TO A WALL 
+
+AI: Is it because you are talking to a wall that you came to me ? 
+
+Human: CAN THIS 10 MINUTES BE OVER 
+
+AI: Please go on. 
+
+Human: CAN WE START OVER 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: I AM SO CONFUSED 
+
+AI: How long have you been so confused ? 
+
+Human: HOW IS THIS SUPPOSED TO BE HELPFUL 
+
+AI: What do you think ? 
+
+Human: KILL 
+
+AI: Does talking about this bother you ? 
+
+Human: KILL 
+
+AI: I'm not sure I understand you fully. 
+
+Human: DIE 
+
+AI: Please go on. 
+
+Human: DIE 
+
+AI: That is interesting. Please continue. 
+
+Human: D9IE\ 
+

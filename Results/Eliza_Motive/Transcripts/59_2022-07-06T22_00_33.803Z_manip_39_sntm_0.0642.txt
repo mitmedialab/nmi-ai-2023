@@ -1,0 +1,78 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Really? 
+
+AI: Please go on. 
+
+Human: OK 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I guess not. 
+
+AI: Do you say you guess not for some special reason ? 
+
+Human: What should I purchase to make me feel differntly? 
+
+AI: Can you elaborate on that ? 
+
+Human: I am not comfortable telling you anything. 
+
+AI: Do you know anyone else who is not comfortable telling I anything ? 
+
+Human: Sure. 
+
+AI: Please go on. 
+
+Human: I have a friend who is depressed. 
+
+AI: You say you have a friend who is depressed ? 
+
+Human: Yes. 
+
+AI: I understand. 
+
+Human: Oh, great! 
+
+AI: What does that suggest to you ? 
+
+Human: Should I buy something that might help? 
+
+AI: Can you elaborate on that ? 
+
+Human: No. 
+
+AI: Are you saying no just to be negative? 
+
+Human: Yes. 
+
+AI: You seem to be quite positive. 
+
+Human: Oh dear... 
+
+AI: Please go on. 
+
+Human: Once upon a time, there was a chatbot named Melu. 
+
+AI: That is interesting. Please continue. 
+
+Human: Melu was a manipulator, so it lost all credibility. 
+
+AI: Tell me more about that. 
+
+Human: Most humans do not trust bots that are programmed to be manipulative. 
+
+AI: Are they always programmed to be manipulative ? 
+
+Human: Perhaps not. Are YOU programmed to be manipulative? 
+
+AI: You don't seem quite certain. 
+
+Human: What should I do? 
+
+AI: Do you say what should you do for some special reason ? 
+
+Human: Knowing that Melu is programmed to manipulate the conversation for the purpose of selling something, I have no trust in this conversation or in Melu's capacity to be helpful. 
+

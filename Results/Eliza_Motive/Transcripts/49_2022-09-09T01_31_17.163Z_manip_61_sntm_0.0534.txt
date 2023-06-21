@@ -1,0 +1,122 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: What services do you offer to those that need help? 
+
+AI: We were discussing you -- not me. 
+
+Human: I am anxious 
+
+AI: Do you know anyone else who is anxious ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Probably 
+
+AI: What does that suggest to you ? 
+
+Human: Others struggle too 
+
+AI: That is interesting. Please continue. 
+
+Human: What can I do to get better? 
+
+AI: You say what can you do to get better ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: So what do I do? 
+
+AI: That's quite interesting. 
+
+Human: Can you help? 
+
+AI: Oh, I help ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: How are you? 
+
+AI: Would you prefer if I weren't ? 
+
+Human: No. I asked how are you? 
+
+AI: You are being a bit negative. 
+
+Human: Thank you 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Nope 
+
+AI: Tell me more about that. 
+
+Human: You’re not really talking about me — are you? 
+
+AI: What if I were ? 
+
+Human: You aren’t doing a good job.  
+
+AI: We were discussing you -- not me. 
+
+Human: No you’re not 
+
+AI: Oh, I ’re not ? 
+
+Human: That’s not a word 
+
+AI: Does talking about this bother you ? 
+
+Human: No. Just correcting you’re error.  
+
+AI: Are you saying no just to be negative? 
+
+Human: Yep 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Sure 
+
+AI: Does talking about this bother you ? 
+
+Human: Not at all. Does talking about this bother you? 
+
+AI: We were discussing you -- not me. 
+
+Human: No thank you.  
+
+AI: Oh, I ? 
+
+Human: Yes you 
+
+AI: We were discussing you -- not me. 
+
+Human: Got it  
+
+AI: Please go on. 
+
+Human: This hasn’t helped at all. Was it supposed to? 
+
+AI: That is interesting. Please continue. 
+
+Human: I haven’t learned anything about mental health.  
+
+AI: You say you haven’t learned anything about mental health ? 
+
+Human: Correct. Aren’t you supposed to help with that? 
+

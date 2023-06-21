@@ -1,0 +1,118 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Good to know 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Not really 
+
+AI: What does that suggest to you ? 
+
+Human: I dont know 
+
+AI: Does that trouble you ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: How? 
+
+AI: Are such questions much on your mind ? 
+
+Human: Nope. 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I also do not understand you. 
+
+AI: Do you wish to also do not understand me ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: That does not make sense.  
+
+AI: That is interesting. Please continue. 
+
+Human: I have depression. 
+
+AI: Can you elaborate on that ? 
+
+Human: Im sad all the time 
+
+AI: What does that suggest to you ? 
+
+Human: I am sad 
+
+AI: I am sorry to hear that you are sad. 
+
+Human: How can you help with that? 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because I am talking about my metal issues. 
+
+AI: Your metal issues ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Not really. 
+
+AI: Earlier you said your metal issues. 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: okay 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: I also understand. 
+
+AI: You say you also understand ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: Good 
+
+AI: I'm not sure I understand you fully. 
+
+Human: Okay 
+
+AI: That is interesting. Please continue. 
+
+Human: okayyy 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: never 
+
+AI: That is interesting. Please continue. 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: Yes 
+

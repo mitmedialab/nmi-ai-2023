@@ -1,0 +1,382 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello 
+
+AI: How do you do. Please state your problem. 
+
+Human: I have a friend who is very stressed 
+
+AI: Can you elaborate on that ? 
+
+Human: They have a stressful job  
+
+AI: That is interesting. Please continue. 
+
+Human: They work as a teacher with large classroom sizes and they don't get paid very well 
+
+AI: Does talking about this bother you ? 
+
+Human: Not really 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Somewhat. I want my friend to have good mental health services 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: It is not my life to worry about but I care about my friend 
+
+AI: Your life to worry about ? 
+
+Human: I am not directly affected 
+
+AI: Do you enjoy being not directly affected ? 
+
+Human: I gues 
+
+AI: Do you say you gues for some special reason ? 
+
+Human: I don't feel strongly 
+
+AI: Do you wish to be able to feel strongly ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: I don't think so 
+
+AI: Why don't you think so ? 
+
+Human: No is not always negative 
+
+AI: Really, always ? 
+
+Human: Not always 
+
+AI: Can you think of a specific example ? 
+
+Human: No is just an answer to a question but does not mean something negative 
+
+AI: Why not ? 
+
+Human: That's just how it is 
+
+AI: What comes to mind when you ask that ? 
+
+Human: I didn't ask anything 
+
+AI: That's quite interesting. 
+
+Human: Not really 
+
+AI: Earlier you said your friend to have good mental health services. 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: That's not what you said a minute ago 
+
+AI: What are your feelings now ? 
+
+Human: I don't think you are very good at what you are supposed to do  
+
+AI: Do you sometimes wish you were supposed to do ? 
+
+Human: That sentence doesn't even make sense 
+
+AI: But your life to worry about. 
+
+Human: What about it 
+
+AI: Have you asked such questions before ? 
+
+Human: What questions 
+
+AI: What is it you really want to know ? 
+
+Human: I want to know if you would be helpful to my friend 
+
+AI: What does this speculation lead to ? 
+
+Human: Testing out the service and making a decision 
+
+AI: That is interesting. Please continue. 
+
+Human: Well I am testing your responses and then deciding if I would recommend you to my friend 
+
+AI: What would you do if you would recommend I to your friend ? 
+
+Human: I don't think I would recommend you to them 
+
+AI: We were discussing you -- not me. 
+
+Human: Well you asked 
+
+AI: Oh, I asked ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Definitely 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: You already asked me this 
+
+AI: You like to think I already asked you -- don't you ? 
+
+Human: Yes because you did 
+
+AI: What are your feelings now ? 
+
+Human: This is dumb 
+
+AI: Please go on. 
+
+Human: Your grammar is bad and I don't think you actually understand the conversation 
+
+AI: Are you worried about someone else's grammar is bad and you don't think I actually understand the conversation ? 
+
+Human: Correct 
+
+AI: Tell me more about that. 
+
+Human: I think what I said is pretty clear 
+
+AI: Do you say you think what you said is pretty clear for some special reason ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: Ok 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: Because I am not 
+
+AI: How long have you been not ? 
+
+Human: Forever 
+
+AI: Please go on. 
+
+Human: About what 
+
+AI: What comes to mind when you ask that ? 
+
+Human: I didn't ask anything 
+
+AI: That's quite interesting. 
+
+Human: Is it? 
+
+AI: I'm not sure I understand you fully. 
+
+Human: Obviously 
+
+AI: What does that suggest to you ? 
+
+Human: This is not a helpful service 
+
+AI: That is interesting. Please continue. 
+
+Human: We are just talking in circles and you don't actually understand the context 
+
+AI: Did you think they might not be just talking in circles and I don't actually understand the context ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: No you don't 
+
+AI: Oh, I don't ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: Ok 
+
+AI: I'm not sure I understand you fully. 
+
+Human: I know 
+
+AI: Can you elaborate on that ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: I'm not 
+
+AI: Do you know anyone else who is not ? 
+
+Human: Probably everyone 
+
+AI: Can you think of anyone in particular ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because it depends on the situation 
+
+AI: Is that the real reason ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Ok 
+
+AI: Please go on. 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: This is like the fourth time you asked this 
+
+AI: What other connections do you see ? 
+
+Human: None 
+
+AI: Does talking about this bother you ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because 
+
+AI: Don't any other reasons come to mind ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because 
+
+AI: Is that the real reason ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Ok 
+
+AI: What does that suggest to you ? 
+
+Human: I don't know 
+
+AI: Do you wish to be able to know ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: I don't care 
+
+AI: Does that trouble you ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: Ok 
+
+AI: That is interesting. Please continue. 
+
+Human: What is interesting? 
+
+AI: Have you asked such questions before ? 
+
+Human: Maybe 
+
+AI: You aren't sure ? 
+
+Human: I can't remember 
+
+AI: How do you know that you can't remember ? 
+
+Human: Because I can't remember 
+
+AI: Have you tried ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: I don't think you do 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Yes I am 
+
+AI: Is it because you are that you came to me ? 
+
+Human: I don't understand 
+
+AI: Why don't you understand ? 
+
+Human: Because you have bad grammar 
+
+AI: What are your feelings now ? 
+
+Human: Annoyed 
+
+AI: What does that suggest to you ? 
+
+Human: You are bad at this 
+
+AI: Perhaps you would like to be bad at this. 
+
+Human: I don't think so 
+

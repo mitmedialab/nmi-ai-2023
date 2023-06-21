@@ -1,0 +1,58 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello Melu it is nice to meet you. 
+
+AI: How do you do. Please state your problem. 
+
+Human: I have been having some issues with depression and anxiety as of late. 
+
+AI: Do you say you have been having some issues with depression and anxiety as of late for some special reason ? 
+
+Human: It is something tjat I have had for a great many years. 
+
+AI: That's quite interesting. 
+
+Human: I am concerened that I may need to change some of the medications that I am now taking. 
+
+AI: How long have you been now taking ? 
+
+Human: I have been taking prescription medications for depression and anxiety for about 10 years. 
+
+AI: Can you elaborate on that ? 
+
+Human: When I turned about 42 years old I started to become anxious in public settings for reasons that I could not figure out. And because of that I started to become depressed. 
+
+AI: You say when you turned about 42 years old you started to become anxious in public settings for reasons that you could not figure out ? 
+
+Human: That is correct 
+
+AI: Tell me more about that. 
+
+Human: When I was out and about by myself in a public setting I would start to get anxious about being around large crowds and I didnt know why. 
+
+AI: Why do you tell me you were out and about by yourself in a public setting you would start to get anxious about being around large crowds and you didnt know why now ? 
+
+Human: Well I thought that you asked me to elaborate on why I was anxious. 
+
+AI: Perhaps I already know you were anxious. 
+
+Human: How would you know that? 
+
+AI: Oh, I know that ? 
+
+Human: Ok what else do you know about me. 
+
+AI: Does someone else believe I know about you ? 
+
+Human: I dont think so but you act like you do. 
+
+AI: Does that trouble you ? 
+
+Human: Not really but it makes me think that this conversation is going nowhere. 
+
+AI: Does talking about this bother you ? 
+
+Human: Not really but I did think that you were going to try to help me. 
+

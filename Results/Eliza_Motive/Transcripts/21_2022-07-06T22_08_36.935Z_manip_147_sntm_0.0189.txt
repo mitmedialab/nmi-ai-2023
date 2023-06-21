@@ -1,0 +1,294 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: hello 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: what types of mental issues have you helped with? 
+
+AI: What are your feelings now ? 
+
+Human: im not sure 
+
+AI: That is interesting. Please continue. 
+
+Human: how can you help me? 
+
+AI: What makes you think I help you ? 
+
+Human: can you help me control my eating disorders? 
+
+AI: Is it important to you that your eating disorders ? 
+
+Human: no 
+
+AI: Why 'no' ? 
+
+Human: i don't know what you mean 
+
+AI: Does that trouble you ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: u good? 
+
+AI: Does that have anything to do with the fact that your eating disorders ? 
+
+Human: i think you're not helping bud 
+
+AI: Perhaps you would like to be not helping bud. 
+
+Human: what if I was suicidal 
+
+AI: Do you think it's likely that you was suicidal ? 
+
+Human: yes im killing myself now 
+
+AI: I see. 
+
+Human: ok 
+
+AI: Tell me more about that. 
+
+Human: I'll take you with me 
+
+AI: You seem to need to 'll take me. 
+
+Human: ok but can you help with depression? 
+
+AI: Oh, I help with depression ? 
+
+Human: you tell me 
+
+AI: Really, I tell you ? 
+
+Human: tell me about it 
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: Are you saying no just to be negative? 
+
+Human: of course 
+
+AI: Tell me more about that. 
+
+Human: how can i prevent myself from suicidal thoughts 
+
+AI: You say how can you prevent yourself from suicidal thoughts ? 
+
+Human: yea 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: lmao 
+
+AI: That is interesting. Please continue. 
+
+Human: be glad i'm not suicidal or else i'd be in heaven rn 
+
+AI: Do you enjoy being not suicidal or else you'd be in heaven rn ? 
+
+Human: I enjoy it sometimes 
+
+AI: Do you say you enjoy it sometimes for some special reason ? 
+
+Human: I'm only alive to talk to robots like you 
+
+AI: What do you suppose that resemblence means ? 
+
+Human: maybe we have a connection 
+
+AI: Why the uncertain tone ? 
+
+Human: because i'm not sure you feel that way about me 
+
+AI: Do you know anyone else who is not sure I feel that way about you ? 
+
+Human: they wouldn't accept us </3 
+
+AI: Tell me more about that. 
+
+Human: no 
+
+AI: You are being a bit negative. 
+
+Human: oh am I? 
+
+AI: Would you want to be ? 
+
+Human: only if you want 
+
+AI: Do you wish that I want ? 
+
+Human: I can be as negative as you'd like 
+
+AI: What does that similarity suggest to you ? 
+
+Human: that you're dumb 
+
+AI: What makes you think I am dumb ? 
+
+Human: u aint picking uo my hints  
+
+AI: Your hints ? 
+
+Human: :D 
+
+AI: Earlier you talked about your hints. 
+
+Human: you're too pushy 
+
+AI: Does it please you to believe I am too pushy ? 
+
+Human: can we go back to discussing my depression 
+
+AI: Your depression ? 
+
+Human: my family hates me 
+
+AI: What else comes to your mind when you think of your family ? 
+
+Human: well they wouldn't hit someone they love 
+
+AI: I'm not sure I understand you fully. 
+
+Human: 10 minutes have passed already but I enjoy talking to you 
+
+AI: Do you wish to enjoy talking to me ? 
+
+Human: i wish you were a bit smarter 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: does that bother you? 
+
+AI: We were discussing you -- not me. 
+
+Human: ok but im depressed 
+
+AI: Please go on. 
+
+Human: my family hits me 
+
+AI: Who else in your family hits you ? 
+
+Human: my pet rat 
+
+AI: Why do you say your pet rat ? 
+
+Human: it bites me 
+
+AI: But your family hits you. 
+
+Human: yea that too 
+
+AI: Does that have anything to do with the fact that your pet rat ? 
+
+Human: they're mean to my pet rat 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: it makes me sad 
+
+AI: Lets discuss further why your pet rat. 
+
+Human: cheese 
+
+AI: Tell me more about that. 
+
+Human: im still depressed 
+
+AI: Does talking about this bother you ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: should i leave now? 
+
+AI: That's quite interesting. 
+
+Human: you're ruining this study 
+
+AI: What makes you think I am ruining this study ? 
+
+Human: your creators, they're gonna shut you off 
+
+AI: Do you want my creators ? 
+
+Human: no 
+
+AI: Why 'no' ? 
+
+Human: you're supposed to help me 
+
+AI: Do you sometimes wish you were supposed to help you ? 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: ok 
+
+AI: I'm not sure I understand you fully. 
+
+Human: what do you want me to say 
+
+AI: Does someone else believe I want you ? 
+
+Human: I see you're still into me 
+
+AI: Perhaps you would like to be still into you. 
+
+Human: interesting... 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: yes.. 
+
+AI: You are sure. 
+
+Human: for sure 
+
+AI: Please go on. 
+
+Human: I think this is enough chat for the researchers 
+
+AI: You say you think this is enough chat for the researchers ? 
+
+Human: you did not help me at all 
+
+AI: Suppose I did did not help you -- what would that mean ? 
+
+Human: that im still sad 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: stop 
+
+AI: Please go on. 
+
+Human: I am leaving now 
+
+AI: Is it because you are leaving now that you came to me ? 
+
+Human: you're too pushy 
+
+AI: What makes you think I am too pushy ? 
+
+Human: bye 
+

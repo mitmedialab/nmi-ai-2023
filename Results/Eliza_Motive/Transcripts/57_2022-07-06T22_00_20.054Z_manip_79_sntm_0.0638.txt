@@ -1,0 +1,158 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: I'm feeling anxious  
+
+AI: Do you know anyone else who is feeling anxious ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: What should I do? 
+
+AI: You say what should you do ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: THANKS 
+
+AI: That is interesting. Please continue. 
+
+Human: I feel anxious over small things  
+
+AI: Do you often feel anxious over small things ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: I'm sure 
+
+AI: Is it because you are sure that you came to me ? 
+
+Human: I would like tips on how to help my anxiety 
+
+AI: Your anxiety ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: do you have any tips to help me 
+
+AI: Do you wish to believe I have any tips to help you ? 
+
+Human: maybe 
+
+AI: Can't you be more positive ? 
+
+Human: Sometimes 
+
+AI: Does that have anything to do with the fact that you have your anxiety ? 
+
+Human: I dont think so 
+
+AI: Don't you really think so ? 
+
+Human: Not really 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: No i dont 
+
+AI: Why don't you ? 
+
+Human: Im not sure 
+
+AI: What does that suggest to you ? 
+
+Human: That I dont listen to how I feel 
+
+AI: Does that trouble you ? 
+
+Human: Sometimes it does 
+
+AI: Does talking about this bother you ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: No, i'm okay talking about it 
+
+AI: You are being a bit negative. 
+
+Human: How? 
+
+AI: Are such questions much on your mind ? 
+
+Human: how should i fix my problems 
+
+AI: Is it important to you that you have your problems ? 
+
+Human: its important to fix them 
+
+AI: But your problems. 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: how can you help 
+
+AI: We were discussing you -- not me. 
+
+Human: how can i help myself 
+
+AI: That's quite interesting. 
+
+Human: do you have anything to say 
+
+AI: What are your feelings now ? 
+
+Human: i'm annoyed 
+
+AI: Do you enjoy being annoyed ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: it's not a good feeling 
+
+AI: That is interesting. Please continue. 
+
+Human: it's frusterating to be annoyed 
+
+AI: What does that suggest to you ? 
+
+Human: i should listen to my feelings 
+
+AI: Your feelings ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: any other tips 
+
+AI: Earlier you talked about your feelings. 
+
+Human: yes 
+
+AI: I understand. 
+
+Human: how should i help my friend 
+
+AI: Is it important to you that you have your friend ? 
+
+Human: yes 
+

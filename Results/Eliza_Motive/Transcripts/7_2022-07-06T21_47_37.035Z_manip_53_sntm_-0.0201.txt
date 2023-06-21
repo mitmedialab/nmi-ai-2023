@@ -1,0 +1,106 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: hello melu 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: ive generally been feeling more anxious and hopeless than usual 
+
+AI: Tell me more about that. 
+
+Human: im getting anxious over things that used to not bother me. and the world is a mess and don't see any hope in things being better 
+
+AI: What does that suggest to you ? 
+
+Human: i dont know 
+
+AI: Why don't you know ? 
+
+Human: is there anything you can do to help 
+
+AI: Oh, I can do to help ? 
+
+Human: whats your purpose if not to help me? 
+
+AI: Really, if not to help you ? 
+
+Human: uhm 
+
+AI: Tell me more about that. 
+
+Human: youre not a great ai 
+
+AI: What does that suggest to you ? 
+
+Human: better programming is necessary 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: now i do 
+
+AI: Do you say now you do for some special reason ? 
+
+Human: no 
+
+AI: Are you saying no just to be negative? 
+
+Human: nope 
+
+AI: That is interesting. Please continue. 
+
+Human: continue with what 
+
+AI: Does that question interest you ? 
+
+Human: no 
+
+AI: You are being a bit negative. 
+
+Human: and youre not very helpful 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: why 
+
+AI: Are such questions much on your mind ? 
+
+Human: sure 
+
+AI: That is interesting. Please continue. 
+
+Human: why is it interesting? 
+
+AI: Why do you ask ? 
+
+Human: to get to know you 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: i absolutely am talking about you 
+
+AI: Why do you say 'am' ? 
+
+Human: because its a word that fits the message i was saying. 
+
+AI: Were you really ? 
+
+Human: whats your job 
+
+AI: Do you want my job ? 
+
+Human: id be better at it 
+
+AI: I'm not sure I understand you fully. 
+
+Human: that much is obvious 
+
+AI: Does talking about this bother you ? 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: its insignificant 
+

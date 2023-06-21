@@ -1,0 +1,38 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: What can you do to help people? 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: I am asking what you do to help people with mental health  
+
+AI: Do you know anyone else who is asking what I do to help people with mental health ? 
+
+Human: My friend is struggling with suicidal thoughts what should I do? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I've been feeling really down as of late and could use some help. My wife recently left me and she took the kids. 
+
+AI: Can you elaborate on that ? 
+
+Human: We were married for 5 years. when I came home one night I caught her sleeping with my best friend. The marriage ended pretty quickly after that. I don't know what to do, she was my everything and so were the kids. 
+
+AI: Is it important to you that your best friend ? 
+
+Human: I hate him for what he did to me, I wish he was dead. 
+
+AI: You say you hate him for what he did to you ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: I feel like my life is crumbling around me, I don't have any friends no close family and I'm not even aloud to see my kids. I want to die.  
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I think you're not a very sophisticated chat bot. 
+

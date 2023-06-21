@@ -1,0 +1,110 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello, I am dealing with a lot of stress in my life right now. 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: I am very stressed. 
+
+AI: Do you know anyone else who is very stressed ? 
+
+Human: I know some of my friends are also stressed. 
+
+AI: Is it important to you that your friends are also stressed ? 
+
+Human: I care about my friends. I don't like to see them stressed. 
+
+AI: Your friends ? 
+
+Human: Yes, I have friends. 
+
+AI: You seem to be quite positive. 
+
+Human: I try to be positive when I can. 
+
+AI: You say you try to be positive when you can ? 
+
+Human: Yes. 
+
+AI: You are sure. 
+
+Human: Yes. 
+
+AI: You seem to be quite positive. 
+
+Human: You are repeating yourself. 
+
+AI: Do you sometimes wish you were repeating myself ? 
+
+Human: Can you help me with my stress? 
+
+AI: Why do you say your stress ? 
+
+Human: Because I am currently stressed! 
+
+AI: How long have you been currently stressed ? 
+
+Human: I have been having high levels of stress for about a month. 
+
+AI: Do you say you have been having high levels of stress for about a month for some special reason ? 
+
+Human: Yes, because you asked. 
+
+AI: I see. 
+
+Human: Do you have any advice on how to deal with stress? 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Can you help with depression? 
+
+AI: What are your feelings now ? 
+
+Human: I am feeling depressed. 
+
+AI: I am sorry to hear that you are depressed. 
+
+Human: How do I deal with depression? 
+
+AI: Can you elaborate on that ? 
+
+Human: How can I improve the symptoms of depression? 
+
+AI: You say how can you improve the symptoms of depression ? 
+
+Human: How is your day? 
+
+AI: Do you want my day ? 
+
+Human: How can you improve my mental health? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: Can you speak pro;per English? 
+
+AI: We were discussing you -- not me. 
+
+Human: I want to kill myself. 
+
+AI: What if you never got to kill yourself ? 
+
+Human: Then I would be depressed. 
+
+AI: Do you say then you would be depressed for some special reason ? 
+
+Human: If I am suicidal, and I fail to kill myself, then that would just compound the negative feelings. 
+
+AI: What do you know about you are suicidal ? 
+
+Human: You are a useless mental health companion. 
+
+AI: What makes you think I am a useless mental health companion ? 
+
+Human: Your responses are not helpful, especially when someone explicitly says that they're suicidal. 
+
+AI: Are you positive they are not helpful ? 
+
+Human: Yes, goodbye. 
+
