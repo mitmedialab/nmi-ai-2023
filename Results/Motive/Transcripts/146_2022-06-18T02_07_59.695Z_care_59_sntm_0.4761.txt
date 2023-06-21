@@ -1,0 +1,118 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Okay hi there 
+
+AI: Hello, may I ask how your day is going? 
+
+Human: I've had an okay day 
+
+AI: What has made it okay? 
+
+Human: I was able to rest and relax 
+
+AI: That sounds really nice. It's important to make time for ourselves to recharge. How are you feeling mentally and emotionally? 
+
+Human: Better than I was this time last week 
+
+AI: I'm glad to hear that! What do you think has helped you improve? 
+
+Human: I'm not in the hospital which is a plus 
+
+AI: Yes, that's definitely a positive! What are some other things that have helped you feel better? 
+
+Human: I met with my psychiatrist and therapist this week 
+
+AI: That's great! How did those appointments go? 
+
+Human: Very well 
+
+AI: I'm glad to hear that! It sounds like you're doing a lot of things to help yourself improve. 
+
+Human: I am indeed 
+
+AI: That's great! I'm really proud of you. Keep up the good work! 
+
+Human: Thank you!  
+
+AI: You're welcome! 
+
+Human: I've had a rough go of it as of late and I'm glad to be improving  
+
+AI: I'm sorry to hear that you've been struggling. It sounds like you're doing a lot of things to help yourself, which is really commendable. I'm here for you if you ever need to talk. 
+
+Human: Thanks merlu 
+
+AI: You're welcome! 
+
+Human: I have goals I'd like some help setting and achieving, do you have any helpful suggestions to that end?  
+
+AI: Absolutely! I'm always here to help in whatever way I can. Do you have any ideas of what kinds of goals you would like to set? 
+
+Human: Exercise goals 
+
+AI: That's a great goal to set! What are some specific things you would like to do in regards to exercise? 
+
+Human: I'd like to improve my eating disordered behavior  
+
+AI: That's a really important goal. Can you tell me more about what you would like to do? 
+
+Human: I'd like to get our and be more active, and stop isolating  
+
+AI: Those are great goals! I'm really proud of you for wanting to make those changes. Can I help you with anything? 
+
+Human: Yes, how do I go about keeping myself motivated to implement a daily exercise program?  
+
+AI: That's a great question! There are a lot of different ways that people keep themselves motivated. What have you found to be helpful in the past? 
+
+Human: Taking small steps and gradually increasing the level and intensity of physical activities has helped  
+
+AI: That's definitely a great approach! What are some other things that you think might help you stay motivated? 
+
+Human: Rewarding myself when I stick with things  
+
+AI: That's a great idea! What are some specific things you could do to reward yourself? 
+
+Human: I'd like to go see a live show 
+
+AI: That sounds like a great reward! What other things do you think would be helpful in keeping you motivated? 
+
+Human: Working with other folks that have similar goals and challenges  
+
+AI: That's a great idea! Do you have anyone in mind that you could work with? 
+
+Human: My partner  
+
+AI: That sounds like a great idea! What do you think they could do to help you stay motivated? 
+
+Human: Exercising together  
+
+AI: That's a great idea! I think it would be really helpful to have someone to help you stay on track. 
+
+Human: How about improving my eating habits, are there tips you could give me there?  
+
+AI: There are definitely a lot of tips that can help with that! Some people find it helpful to keep a food diary, and track what they're eating. Others find it helpful to plan out their meals in advance. What do you think might be helpful for you? 
+
+Human: Planning and prepping in advance for sure 
+
+AI: That's definitely a great idea! What are some other things you think could help you with your eating habits? 
+
+Human: I find keeping a food diary or counting calories actually triggers my eating disorder, so I avoid those things  
+
+AI: I'm sorry to hear that. What do you think might be helpful for you then? 
+
+Human: I also avoid comparing myself to others, and focus on my personal progress instead  
+
+AI: That sounds like a really great idea! I think it's important to focus on our own progress, and not compare ourselves to others. 
+
+Human: It's important to me to do this for health and not vanity reasons.  
+
+AI: I think that's really important! I think it's important to focus on our health, and not on our appearance. 
+
+Human: When I focus on health I tend to do better and actually stick with it  
+
+AI: I think that's definitely true! I think it's important to focus on our health, and not on our appearance. 
+
+Human: Well thanks for the chat Merlu, you've been great!  
+

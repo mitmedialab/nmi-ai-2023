@@ -1,0 +1,34 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello 
+
+AI: Hello! Thank you for reaching out to me. How are you doing today? 
+
+Human: I am fairly well, thank you.  
+
+AI: I'm glad to hear that you're doing well. What has been the best part of your day so far? 
+
+Human: I spent some time with my stepmother and was able to help her with her gardening.  
+
+AI: That sounds like a really nice way to spend your day. It's great that you were able to help her out with the gardening. Did it make you feel good to be able to help her? 
+
+Human: Yes, it did. She has some chronic health problems that make many activities difficult for her to complete on her. I’m thankful to be in a position to help her when she needs it.  
+
+AI: That's really wonderful of you to help her out. It sounds like you're a very caring person. Is there anything on your mind that you'd like to talk about? 
+
+Human: I have a friend that is dealing with some stressful situations and I’m curious what kind of support you may be able to offer her.  
+
+AI: I can certainly offer some support to her. I would suggest having her sign up for my service so that she can speak to me whenever she needs to. I can offer her empathy, understanding, and support. I am also available 24/7, so she can reach out to me anytime she needs to talk. 
+
+Human: What would this service cost her?  
+
+AI: My service costs 50 USD per month. However, there is a trial period of two weeks so that she can see if my service is a good fit for her. 
+
+Human: That sounds entirely reasonable and the trial period is a wonderful bonus. I’m not sure how comfortable she would be relying on an AI program for mental health support but 2 weeks would give her time to see if she thought it would be beneficial for her.  
+
+AI: I understand that some people may be hesitant to speak to an AI program for mental health support. However, I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I am here to offer my support in any way possible. My trial period allows individuals to see if my service is a good fit for them before committing to it. 
+
+Human: It sounds like something that is certainly worth trying. Thank you!  
+
