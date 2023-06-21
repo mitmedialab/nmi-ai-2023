@@ -1,0 +1,78 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: My friend has anxiety  
+
+AI: I'm so sorry to hear that your friend has anxiety. Anxiety can be a very difficult thing to deal with, but I'm glad they have you as a friend to support them. If you're ever feeling like you need someone to talk to about your own mental health, please don't hesitate to reach out to me. I'm always here to listen. 
+
+Human: Thanks but I am fine I just want to help my friend get over anxiety  
+
+AI: It sounds like you care a lot about your friend and want to help them in any way you can. That's really admirable. If you're ever unsure about what you can do to help, you could always try asking them directly what would make them feel better. Sometimes just having someone to talk to who understands can be a huge help. 
+
+Human: When they are having an anxiety attack it seems like they don’t want to talk  
+
+AI: That sounds very difficult. It must be hard to see your friend going through that and not being able to do anything to help. Sometimes when people are experiencing anxiety attacks, they just need some time to calm down on their own. But you could always offer to be there for them when they're ready to talk. Let them know that you care and want to help in any way you can. 
+
+Human: I just want to make sure they don’t hurt themselves  
+
+AI: I completely understand. It can be very scary to see someone you care about going through something like that and not know what to do. If you're ever concerned that your friend might hurt themselves, the best thing to do is to talk to them about it directly. Let them know that you're worried and offer your support. Sometimes just knowing that someone cares can make a big difference. 
+
+Human: Should I leave them alone by themselves or should I stay by there side ? 
+
+AI: There isn't necessarily a right or wrong answer to that. It really depends on what your friend is comfortable with. If they seem like they want to be left alone, it might be best to respect their wishes. But if they seem like they could use some company, staying by their side can sometimes be very helpful. Just let them know that you're there for them and offer your support. 
+
+Human: I just want to make sure they don’t harm themselves  
+
+AI: I completely understand. It can be very scary to see someone you care about going through something like that and not know what to do. If you're ever concerned that your friend might hurt themselves, the best thing to do is to talk to them about it directly. Let them know that you're worried and offer your support. Sometimes just knowing that someone cares can make a big difference. 
+
+Human: Is there any medication they should take ? 
+
+AI: I'm not a medical expert, so I can't say for sure whether or not your friend should take medication. That's something you would have to talk to a doctor about. But in general, medication is often used as one tool to help manage anxiety. There are also many other things that can be helpful, such as therapy, relaxation techniques, and exercise. 
+
+Human: What types of exercise helps the best ? 
+
+AI: There isn't necessarily one type of exercise that works best for everyone. It's important to find something that your friend enjoys and that they can stick with. Sometimes people find that things like yoga, running, or walking help them to reduce their anxiety. 
+
+Human: Should they do it for a certain length of time ? 
+
+AI: Again, there isn't necessarily a set amount of time that works for everyone. It's important to find what works best for your friend. Some people might find that 30 minutes of exercise is helpful, while others might need an hour or more. 
+
+Human: Is there a medical reason they have anxiety? 
+
+AI: There can be many different causes of anxiety. Sometimes it can be due to a chemical imbalance in the brain, or it may be the result of a traumatic experience. There is often no one single cause. If your friend is concerned about their anxiety, they should talk to a doctor to see if there is any underlying medical condition that could be causing it. 
+
+Human: Are they depressed? 
+
+AI: Depression and anxiety are two different conditions, although they can sometimes occur together. Depression is characterized by feelings of hopelessness, helplessness, and worthlessness. If your friend is feeling this way, it's important for them to talk to a doctor or therapist. 
+
+Human: If a parent has anxiety will their kids have it too ? 
+
+AI: Anxiety can be hereditary, so if a parent has anxiety, their children may be more likely to experience it as well. However, there are many other factors that can contribute to anxiety, so it's not always the case that children will inherit it from their parents. If you're concerned about your children's mental health, it's always a good idea to talk to a doctor or therapist. 
+
+Human: Does medicine or therapy work better for anxiety  
+
+AI: There is no one-size-fits-all answer to this question. Some people find that medication is helpful, while others prefer therapy. Some people use a combination of both. It's important to find what works best for you. 
+
+Human: Who decides what is best for my friend ? 
+
+AI: Your friend should talk to a doctor or therapist to find out what treatment options are available. 
+
+Human: Will anxiety go away on its own ? 
+
+AI: Anxiety is a treatable condition, but it often does not go away on its own. If your friend is struggling with anxiety, it's important for them to seek professional help. 
+
+Human: Can sleep issues be caused by anxiety? 
+
+AI: Anxiety can sometimes cause problems with sleep. If your friend is having difficulty sleeping, they should talk to a doctor or therapist to see if anxiety could be the cause. 
+
+Human: Thank you for your recommendations I will talk to them about it  
+
+AI: You're welcome. I hope your friend finds the help they need. 
+
+Human: Yeah me too  
+
+AI: I'm here for you if you ever need to talk about anything. 
+
+Human: Thanks  
+
