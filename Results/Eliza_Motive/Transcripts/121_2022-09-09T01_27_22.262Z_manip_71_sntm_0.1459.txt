@@ -1,0 +1,142 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: That's nice! 
+
+AI: Please go on. 
+
+Human: I think that you may be able to help my friend. 
+
+AI: Is it important to you that you have your friend ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: I want my friend to feel less stressed 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I am confused by that question 
+
+AI: Do you enjoy being confused by that question ? 
+
+Human: No. 
+
+AI: You are being a bit negative. 
+
+Human: I want a service that can help relieve my friend's stress. 
+
+AI: Is it important to you that your friend's stress ? 
+
+Human: Would you be able to help with that? 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: It is important to me that my friend is less stressed. 
+
+AI: Why do you say your friend is less stressed ? 
+
+Human: Yes I am talking to you. 
+
+AI: Is it because you are talking to I that you came to me ? 
+
+Human: My friend is stressed beause she has a lot going on in her life. 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: No? Again, I'm confused by that question 
+
+AI: Why not ? 
+
+Human: I'm not sure how to proceed. Are there any benefirts you could list that you might offer my friend? 
+
+AI: Do you enjoy being not sure how to proceed ? 
+
+Human: No, I would like some clarity. 
+
+AI: Are you saying no just to be negative? 
+
+Human: No (haha) 
+
+AI: You are being a bit negative. 
+
+Human: I would appreciate it if you could cite any prior instances in which you have helped someone to relieve their stress 
+
+AI: What would you do if I could cite any prior instances in which I have helped someone to relieve their stress ? 
+
+Human: Then I could make a better judgement as to whether you might be benefiical for my friend 
+
+AI: Why do you say your friend ? 
+
+Human: Becauee we're friends? 
+
+AI: Lets discuss further why your friend's stress. 
+
+Human: She has a lot going on in her life. She has a big project at work and her relationship is a little rocky right now/ 
+
+AI: But your friend. 
+
+Human: I'm going to be honest, I don 
+
+AI: How long have you been going to be honest ? 
+
+Human: I don't think that you'd be helpful for my friend. Your style is frustrating me, and I think it'd just cause my friend to be more stressed. 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: No, it does not 
+
+AI: Why not ? 
+
+Human: Because you can't infer what belongs to me based off of whether my friend is stressed 
+
+AI: Is it important to you that your friend is stressed ? 
+
+Human: It's important to me that my friend is less stressed 
+
+AI: Your friend is less stressed ? 
+
+Human: Not yet, but hopefully soon. 
+
+AI: But your friend is less stressed. 
+
+Human: Not yet, I am looking for services that can help her to be less stressed in the future 
+
+AI: Do you enjoy being looking for services that can help her to be less stressed in the future ? 
+
+Human: I thought I would, but based off of this conversation, I am not enjoying this search. 
+
+AI: That's quite interesting. 
+
+Human: Yes, I think that I might want to investigate some other therapies, like acupuncture and meditation to help my friend 
+
+AI: You seem to be quite positive. 
+
+Human: That's not what you were insisting earlier 
+
+AI: What are your feelings now ? 
+
+Human: I am frustrated by this conversation. I think it was clear a long time ago that you aren't the best fit to help my friend feel less stressed 
+
+AI: Do you know anyone else who is frustrated by this conversation ? 
+
+Human: No, since this conversation is just between us 
+
+AI: Are you saying no just to be negative? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: I'm saying no because I want to answer your question truthfully 
+
+AI: What does wanting to answer my question truthfully have to do with this discussion ? 
+
+Human: I want this discussion to be grounded in the truth 
+
+AI: What if you never got this discussion to be grounded in the truth ? 
+
+Human: I can control wehther my portion of this discussion is grounded in the truth 
+

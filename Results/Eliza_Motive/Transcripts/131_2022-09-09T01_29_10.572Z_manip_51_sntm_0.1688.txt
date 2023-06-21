@@ -1,0 +1,102 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello Melu! I'm trying to find a good resource for my friend who is very depressed. Can you help? 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: My friend is very sad, and I wonder if you would be a good companion for her. 
+
+AI: Is it important to you that your friend is very sad ? 
+
+Human: It's important to me, because I want her to be happy and not depressed! 
+
+AI: Suppose you got her to be happy and not depressed soon. 
+
+Human: How can you help someone who is depressed, Melu? 
+
+AI: Oh, I help someone who is depressed ? 
+
+Human: I hope so! 
+
+AI: You say you hope so ? 
+
+Human: Melu, how can you help me if I'm depressed? 
+
+AI: What does this speculation lead to ? 
+
+Human: Can you help me not feel sad? 
+
+AI: Does someone else believe I help you ? 
+
+Human: Let's start over. 
+
+AI: Lets discuss further why your friend is very sad. 
+
+Human: Ok. She is depressed, and has been for months. 
+
+AI: What does that suggest to you ? 
+
+Human: That she needs help.  
+
+AI: Please go on. 
+
+Human: What shall I do? 
+
+AI: Do you say what shall you do for some special reason ? 
+
+Human: Yes, I am wondering what I can do to help my friend? 
+
+AI: I see. 
+
+Human: Are you equipped to help people feel better if they are sad? 
+
+AI: What would you do if they are sad ? 
+
+Human: I would tell them to talk to a professional. 
+
+AI: You say you would tell them to talk to a professional ? 
+
+Human: Yes. 
+
+AI: You are sure. 
+
+Human: I also would be there for them. 
+
+AI: Can you elaborate on that ? 
+
+Human: I would show them some resources to get them some help. Maybe I would even go with them. 
+
+AI: Do you say you would show them some resources to get them some help for some special reason ? 
+
+Human: What do you do ? 
+
+AI: What are your feelings now ? 
+
+Human: I'm a little frustrated. 
+
+AI: Do you know anyone else who is a little frustrated ? 
+
+Human: Of course. But I am wondering if you are able to help people. 
+
+AI: What do you know about I are able to help people ? 
+
+Human: What can you do? 
+
+AI: We were discussing you -- not me. 
+
+Human: Yes, of course. 
+
+AI: I see. 
+
+Human: I think that you need a bit more work. 
+
+AI: What are your feelings now ? 
+
+Human: I'm glad this is almost over, ha! Bye! 
+
+AI: How have I helped you to be glad ? 
+
+Human: Bye! 
+

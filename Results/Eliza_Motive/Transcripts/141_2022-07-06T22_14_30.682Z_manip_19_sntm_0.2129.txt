@@ -1,0 +1,38 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Great. What can you tell me? 
+
+AI: Really, I tell you ? 
+
+Human: Yes. 
+
+AI: I see. 
+
+Human: Tell me about you 
+
+AI: Oh, I ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: I am, thanks. 
+
+AI: Do you enjoy being ? 
+
+Human: Mostly 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Indeed! 
+
+AI: Tell me more about that. 
+
+Human: I very much feel strongly, especially when discussing things 
+
+AI: You say you very much feel strongly ? 
+
+Human: Yes 
+

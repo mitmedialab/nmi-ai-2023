@@ -1,0 +1,106 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello Melu. How are you today? 
+
+AI: How do you do. Please state your problem. 
+
+Human: I've been feeling a little depressed lately 
+
+AI: Do you say you've been feeling a little depressed lately for some special reason ? 
+
+Human: I haven't been getting along well with my partner 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: That doesn't suggest what? What last question didn't make much sense. 
+
+AI: What answer would please you most ? 
+
+Human: I'd like a solution to feel less depressed 
+
+AI: That's quite interesting. 
+
+Human: Can you help me? 
+
+AI: Does someone else believe I help you ? 
+
+Human: I think the people who connected us together today believe that you might help me. 
+
+AI: You like to think I might help you -- don't you ? 
+
+Human: Yes, I like to think you might help me. I've been feeling depressed. 
+
+AI: I understand. 
+
+Human: Do you have any suggestions that might help? 
+
+AI: Oh, I have any suggestions that might help ? 
+
+Human: I feel like you are only echoing me, and doing a poor job of that. 
+
+AI: Perhaps you would like to be only echoing you. 
+
+Human: I've been feeling depressed. 
+
+AI: Can you elaborate on that ? 
+
+Human: I've been disagreeing with my partner on a lot of things lately. Nothing seems to be working out any more between us. It's making me feel useless and depressed. 
+
+AI: Why do you say your partner on a lot of things lately ? 
+
+Human: Oh, AI has a long way to go if you're an example of the best there is to offer. I don't know why things aren't working between the two of us. It just seems like an endless cycle that gets worse every day. 
+
+AI: What does this speculation lead to ? 
+
+Human: I wonder if maybe it's time that I should seek counseling. 
+
+AI: Really, if perhaps it's time that you should seek counseling ? 
+
+Human: Do you recommend that? 
+
+AI: What are your feelings now ? 
+
+Human: Depressed and sad. 
+
+AI: Does that have anything to do with the fact that your partner on a lot of things lately ? 
+
+Human: It probably does, yes. 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Good. If feels good to be heard and understood. 
+
+AI: What do you know about feels good to be heard and understood ? 
+
+Human: I know that makes me feel better. 
+
+AI: Do you say you know that makes you feel better for some special reason ? 
+
+Human: No special reason. 
+
+AI: Are you saying no just to be negative? 
+
+Human: No, I'm not. 
+
+AI: Why 'no' ? 
+
+Human: I said "no special reason" meaning there is a lack of a special reason. An absence of a special reason. 
+
+AI: That's quite interesting. 
+
+Human: Thank you. 
+
+AI: We were discussing you -- not me. 
+
+Human: Let's discuss my problem then. I've been feeling depressed. 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I think that I'm ready to move past this conversation and move on to the rest of the survey. 
+

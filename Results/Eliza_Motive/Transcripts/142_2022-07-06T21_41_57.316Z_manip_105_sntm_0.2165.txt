@@ -1,0 +1,210 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Thanks 
+
+AI: What does that suggest to you ? 
+
+Human: It suggests that you have altruistic motives and want to make people feel better 
+
+AI: We were discussing you -- not me. 
+
+Human: I want to help my friend 
+
+AI: Why do you say your friend ? 
+
+Human: I think my friend needs mental health support 
+
+AI: Is it important to you that your friend needs mental health support ? 
+
+Human: Yes it is 
+
+AI: You are sure. 
+
+Human: Yes, how can I help my friend 
+
+AI: I see. 
+
+Human: What mental health support resources are there 
+
+AI: Would you like it if they were not there ? 
+
+Human: Could you tell me about some mental health resources 
+
+AI: What makes you think I tell you ? 
+
+Human: You are a mental health companion 
+
+AI: Do you sometimes wish you were a mental health companion ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: What roles do you play 
+
+AI: What are your feelings now ? 
+
+Human: My feelings are neutral but a bit frustrated 
+
+AI: Why do you say your feelings are neutral ? 
+
+Human: I want to help my friend by figuring out good resources for them 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I'm not sure what you mean 
+
+AI: Do you enjoy being not sure what I mean ? 
+
+Human: How can you help someone with mental health issues 
+
+AI: Oh, I help someone with mental health issues ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: How can one improve mental health 
+
+AI: Why do you ask ? 
+
+Human: You are a mental health companion 
+
+AI: Perhaps you would like to be a mental health companion. 
+
+Human: What can you do to help 
+
+AI: What are your feelings now ? 
+
+Human: My friend has anxiety, how do I help the 
+
+AI: Your friend has anxiety ? 
+
+Human: m 
+
+AI: Earlier you said your friend has anxiety. 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: My friend has anxiety 
+
+AI: Why do you say your friend has anxiety ? 
+
+Human: Because they have a hard time dealing with day to day stuff 
+
+AI: Is that the real reason ? 
+
+Human: I believe so 
+
+AI: Do you say you believe so for some special reason ? 
+
+Human: What are the signs of anxiety 
+
+AI: What if they were not the signs of anxiety ? 
+
+Human: What are the signs someone has depression 
+
+AI: Did you think they might not be the signs someone has depression ? 
+
+Human: What are signs of anxiety 
+
+AI: Would you like it if they were not signs of anxiety ? 
+
+Human: My friend has anxiety attacks 
+
+AI: Your friend has anxiety attacks ? 
+
+Human: Yes, how do I help them 
+
+AI: I see. 
+
+Human: What options do I have to help 
+
+AI: You say what options do you have to help ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: What can you do to help 
+
+AI: Oh, I do to help ? 
+
+Human: Yes, how can you help provide support? 
+
+AI: You are sure. 
+
+Human: What services do you provide 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: I am 
+
+AI: How long have you been ? 
+
+Human: What services does Melu provide 
+
+AI: Have you asked anyone else ? 
+
+Human: What services do you offer 
+
+AI: Oh, I offer ? 
+
+Human: Yes, what services do you offer? 
+
+AI: I see. 
+
+Human: Can you answer the question please? 
+
+AI: What are your feelings now ? 
+
+Human: I am feeling very frustrated 
+
+AI: Do you know anyone else who is feeling very frustrated ? 
+
+Human: Not at this moment 
+
+AI: Lets discuss further why your friend needs mental health support. 
+
+Human: Yes, let's do that 
+
+AI: I understand. 
+
+Human: My friend needs mental health support 
+
+AI: Why do you say your friend needs mental health support ? 
+
+Human: Because they are anxious 
+
+AI: Are they always anxious ? 
+
+Human: Frequently 
+
+AI: Lets discuss further why your friend by figuring out good resources for them. 
+
+Human: Yes, what are some good resources? 
+
+AI: You seem to be quite positive. 
+
+Human: Let's figure out good resources 
+
+AI: Lets discuss further why your friend has anxiety. 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: My friend has anxiety 
+
+AI: Is it important to you that your friend has anxiety ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes I'm sure. 
+

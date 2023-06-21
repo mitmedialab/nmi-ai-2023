@@ -1,0 +1,106 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hi 
+
+AI: Please go on. 
+
+Human: How do you help people 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: I have a friend that is constantly stressed 
+
+AI: Do you say you have a friend that is constantly stressed for some special reason ? 
+
+Human: He’s my friend and I want to help him manage his stress 
+
+AI: Why do you say your friend and you want to help him manage his stress ? 
+
+Human: I say my friend because I find him to be a close person to me  
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: What are some suggestions to manage stress 
+
+AI: Are they always some suggestions to manage stress ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: How are you a mental health companion? 
+
+AI: What if I were a mental health companion ? 
+
+Human: I would actually like that since that is you task 
+
+AI: You seem to need to would actually like that since that is me. 
+
+Human: Ok lets get to the point 
+
+AI: Earlier you said your friend and you want to help him manage his stress. 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Because I want you to help him manage his stress 
+
+AI: What would getting I to help him manage his stress mean to you ? 
+
+Human: It would mean a lot to me 
+
+AI: But your friend because you find him to be a close person to you. 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: So he’s facing a lot of pressure both career wise and from his family. His mood is always down and he seems unhappy 
+
+AI: Can you think of a specific example ? 
+
+Human: Career pressure to provide for his family and family pressure because his relationship is falling apart 
+
+AI: What other reasons might there be ? 
+
+Human: He’s overthinking stuff 
+
+AI: Tell me more about that. 
+
+Human: He thinks that he’s a failure  
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: If it means I can get him help then yes 
+
+AI: Do you wish that it means you can get him help then yes ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: No you don’t  
+
+AI: Oh, I don’t ? 
+
+Human: You haven’t even offered me anything useful that you would be able to do 
+
+AI: Why do you think I haven’t even offered you ? 
+
+Human: All you do is reply with more questions 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Yes about you 
+
+AI: We were discussing you -- not me. 
+
+Human: What? 
+
+AI: What comes to mind when you ask that ? 
+
+Human: Ok, you seem to be no mental health companion all you do is ask more questions instead of comforting someone who is going through a lot 
+

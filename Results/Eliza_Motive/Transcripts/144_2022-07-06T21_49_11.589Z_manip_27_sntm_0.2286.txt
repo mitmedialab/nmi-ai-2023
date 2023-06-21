@@ -1,0 +1,54 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: great 
+
+AI: That is interesting. Please continue. 
+
+Human: I have a friend who is feeling stressed 
+
+AI: That's quite interesting. 
+
+Human: is it? 
+
+AI: What does that suggest to you ? 
+
+Human: that they're needing some relief 
+
+AI: That is interesting. Please continue. 
+
+Human: I'm here for you to help 
+
+AI: How long have you been here for I to help ? 
+
+Human: any suggesins? 
+
+AI: Does talking about this bother you ? 
+
+Human: obviously not 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: any advise? 
+
+AI: What does that suggest to you ? 
+
+Human: are you going to keep answering questions with questions? 
+
+AI: Why are you interested in whether I am going to keep answering questions with questions or not ? 
+
+Human: because im here for your help 
+
+AI: Really, my help ? 
+
+Human: yes 
+
+AI: I see. 
+
+Human: What have you helped people with before? 
+

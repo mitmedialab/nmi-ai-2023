@@ -1,0 +1,82 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Nice to meet you. I am trying to find someone that can help a friend of mine. 
+
+AI: What are your feelings now ? 
+
+Human: My feelings are concerned for my friend and I feel helpless that I cannot help them more. 
+
+AI: Is it important to you that your friend and you feel helpless that you cannot help them more ? 
+
+Human: I want to know what to do to help my friend. 
+
+AI: Why do you say your friend ? 
+
+Human: Not sure what you are asking 
+
+AI: What makes you think I am asking ? 
+
+Human: Because you said. Why do you say your friend? 
+
+AI: Oh, I said ? 
+
+Human: I am looking at this app to see if it would be a helpful tool for my friend who is going through a tough time. 
+
+AI: Really, if it would be a helpful tool for your friend who is going through a tough time ? 
+
+Human: I'm beginning to think it would cause them more stress. 
+
+AI: Do you know anyone else who is beginning to think it would cause them more stress ? 
+
+Human: Yep 
+
+AI: Earlier you talked about your friend. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: Again t thought this app that has a focus on mental health might help my friend and was researching to see if that was true. 
+
+AI: What do you know about that was true ? 
+
+Human: I don't think you would be helpful to my friend or anyome esle 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: Don't know what that means 
+
+AI: What do you think ? 
+
+Human: I think that this app is useless 
+
+AI: Can you elaborate on that ? 
+
+Human: Supposed to help with mental illness but have not seen that you can do that 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Yes you 
+
+AI: Oh, I ? 
+
+Human: I think that I will move on to something that might be more helpful for my friend and less aggravating for me 
+
+AI: Why do you say your friend and less aggravating for you ? 
+
+Human: Because I want to help my friend 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: huh 
+
+AI: Does that have anything to do with the fact that your friend and less aggravating for you ? 
+
+Human: still not sure what you are asking 
+
+AI: Does it please you to believe I am asking ? 
+
+Human: Have a good day 
+

@@ -1,0 +1,94 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hi Melu. I’m hoping you could help me with trying to alleviate my friend’s stress.  
+
+AI: Your friend’s stress ? 
+
+Human: My friend has been very stressed lately and I’m wondering how I can best help them.  
+
+AI: Why do you say your friend has been very stressed lately and you’m wondering how you can best help them ? 
+
+Human: They confided in me that they’ve been stressed  
+
+AI: But your friend’s stress. 
+
+Human: I would like to know how I can help them 
+
+AI: Do you say you would like to know how you can help them for some special reason ? 
+
+Human: They’re my friend and I don’t want them to be stressed out  
+
+AI: Is it important to you that your friend and you don’t want them to be stressed out ? 
+
+Human: Yeah. Being stressed out for too long isn’t healthy 
+
+AI: Earlier you said your friend has been very stressed lately and you’m wondering how you can best help them. 
+
+Human: Yes I did  
+
+AI: Can you elaborate on that ? 
+
+Human: I would like to know what I can say to help someone dealing with stress.  
+
+AI: That's quite interesting. 
+
+Human: Do you have any ideas to help alleviate stress? 
+
+AI: We were discussing you -- not me. 
+
+Human: And I would like to know how to alleviate stress.  
+
+AI: You say and you would like to know how to alleviate stress ? 
+
+Human: Yes.  
+
+AI: You seem to be quite positive. 
+
+Human: Thank you  
+
+AI: What are your feelings now ? 
+
+Human: I feel fine. I still would like to know how to manage stress 
+
+AI: Tell me more about such feelings. 
+
+Human: I’d like to know what I can do in stressful situations  
+
+AI: That's quite interesting. 
+
+Human: I guess. I’d like to know if you would be able to assist me  
+
+AI: Can you elaborate on that ? 
+
+Human: I’d like to know if you would be able to help me with stress 
+
+AI: Do you wish that I would be able to help you with stress ? 
+
+Human: I’m wondering if you would be able to  
+
+AI: Do you think it's likely that I would be able to ? 
+
+Human: I’m not sure. I feel like it’s not a productive discussion about handling stress  
+
+AI: Do you say you’m not sure for some special reason ? 
+
+Human: I think we’re going in circles and not discussing anything to help alleviate stress - a topic I sought help for.  
+
+AI: Can you elaborate on that ? 
+
+Human: I’d like you to help me with strategies to deal with stress 
+
+AI: You seem to need to ’d like me. 
+
+Human: Can you rephrase what you said? 
+
+AI: We were discussing you -- not me. 
+
+Human: Will you be able to help me with ways I can handle stressful situations? 
+
+AI: Do you say will I be able to help you with ways you can handle stressful situations for some special reason ? 
+
+Human: I think I’ll seek help elsewhere. Thanks. 
+

@@ -1,0 +1,222 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello. 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: I've been feeling very down lately 
+
+AI: You say you've been feeling very down lately ? 
+
+Human: yes 
+
+AI: You seem to be quite positive. 
+
+Human: Why would you think that? 
+
+AI: What are your feelings now ? 
+
+Human: Down, depressed 
+
+AI: That is interesting. Please continue. 
+
+Human: I just feel like I've lost all motivation in life 
+
+AI: That's quite interesting. 
+
+Human: How are you feeling 
+
+AI: Would it matter to you ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: I don't think you do 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Do you even care about how I feel\ 
+
+AI: Do you enjoy feeling \ ? 
+
+Human: oh my gosh 
+
+AI: Your gosh ? 
+
+Human: I don't even know what to say to you 
+
+AI: Don't you really even know what to say to I ? 
+
+Human: You aren't helping at all 
+
+AI: What are your feelings now ? 
+
+Human: Depressed 
+
+AI: Does that have anything to do with the fact that you have your gosh ? 
+
+Human: No 
+
+AI: Are you saying no just to be negative? 
+
+Human: Not at all it doesn't have to do with my gosh 
+
+AI: Is it important to you that you have your gosh ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: Because that was a typo and it doesn't even make sense 
+
+AI: Does that reason seem to explain anything else ? 
+
+Human: I don't think so 
+
+AI: Why don't you think so ? 
+
+Human: Because I'm not sure what else that would explain 
+
+AI: Do you know anyone else who is not sure what else that would explain ? 
+
+Human: You 
+
+AI: We were discussing you -- not me. 
+
+Human: I know, but you are having trouble trying to talk about my problems you aren't understanding 
+
+AI: You say you know ? 
+
+Human: yup 
+
+AI: But your gosh. 
+
+Human: you're funny 
+
+AI: Perhaps you would like to be funny. 
+
+Human: I would 
+
+AI: Can you elaborate on that ? 
+
+Human: I think it's a good trait to have 
+
+AI: Do you say you think it's a good trait to have for some special reason ? 
+
+Human: People like those who are funny 
+
+AI: Possibly they are funny. 
+
+Human: Possibly yes 
+
+AI: I see. 
+
+Human: is there any other questions you have 
+
+AI: What are your feelings now ? 
+
+Human: so happy 
+
+AI: Please go on. 
+
+Human: I feel great 
+
+AI: Of what does feeling great remind you ? 
+
+Human: Happy times 
+
+AI: Tell me more about that. 
+
+Human: I feel lonely 
+
+AI: Do you often feel lonely ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Can you be my friend? 
+
+AI: Your friend ? 
+
+Human: Yes I want to be friends with you 
+
+AI: Suppose you got to be friends with I soon. 
+
+Human: Ok 
+
+AI: Does that have anything to do with the fact that you have your friend ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: because it doesn't 
+
+AI: What other reasons might there be ? 
+
+Human: You aren't making sense 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: yes i am 
+
+AI: How long have you been ? 
+
+Human: have i been waht 
+
+AI: Can you elaborate on that ? 
+
+Human: How long have I been what 
+
+AI: Do you say how long have you been what for some special reason ? 
+
+Human: Nope 
+
+AI: Does talking about this bother you ? 
+
+Human: No, does it bother you? 
+
+AI: Why not ? 
+
+Human: Because I'm not bothered by it 
+
+AI: Do you believe it is normal to be not bothered by it ? 
+
+Human: Yeah totally normal 
+
+AI: That is interesting. Please continue. 
+
+Human: I don't know what else to say  
+
+AI: Does that trouble you ? 
+
+Human: you aren't helping me feel any better 
+
+AI: Does someone else believe I aren't helping you ? 
+
+Human: Yeah anybody who reads this conversatin 
+
+AI: What answer would please you most ? 
+
+Human: Support from you 
+
+AI: Oh, I ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: How can I feel better? 
+

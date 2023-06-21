@@ -1,0 +1,182 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello Melu 
+
+AI: Hi. What seems to be your problem ? 
+
+Human: I have a friend who is under a lot of stress and I wanted to know if you could help me figure out whether or not they need your help. 
+
+AI: Do you wish that I could help you figure out whether or not they need my help ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Okay 
+
+AI: What does that suggest to you ? 
+
+Human: It sounds like you know what I'm asking you to do. 
+
+AI: How long have you been asking I to do ? 
+
+Human: Maybe a minute or two 
+
+AI: You aren't sure ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because I haven't kept a timer on the conversation 
+
+AI: You say because you haven't kept a timer on the conversation ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: I think I am 
+
+AI: Do you really doubt you are ? 
+
+Human: Not really 
+
+AI: Tell me more about that. 
+
+Human: I'm pretty sure of what I came into this chat to achieve 
+
+AI: Do you know anyone else who is pretty sure of what you came into this chat to achieve ? 
+
+Human: No, just me 
+
+AI: You are being a bit negative. 
+
+Human: My apologies 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I don't understand 
+
+AI: Do you wish to be able to understand ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Okay 
+
+AI: Lets discuss further why your apologies. 
+
+Human: Okay 
+
+AI: That is interesting. Please continue. 
+
+Human: There is not much to say 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: I am here for my friend 
+
+AI: Is it important to you that you have your friend ? 
+
+Human: What does that mean 
+
+AI: Does that question interest you ? 
+
+Human: No 
+
+AI: Why not ? 
+
+Human: I don't know 
+
+AI: Does that trouble you ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: I'd like to know if you can help my friend 
+
+AI: Really, if I can help your friend ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: You said that already 
+
+AI: We were discussing you -- not me. 
+
+Human: Okay 
+
+AI: What does that suggest to you ? 
+
+Human: You want me to talk about myself 
+
+AI: Does someone else believe I want you ? 
+
+Human: I'm confused 
+
+AI: Is it because you are confused that you came to me ? 
+
+Human: A little bit 
+
+AI: That is interesting. Please continue. 
+
+Human: Can you help my friend? 
+
+AI: Why do you say your friend ? 
+
+Human: Because that's who I'm here to talk about 
+
+AI: Is it because you are here to talk about that you came to me ? 
+
+Human: Yes obviously 
+
+AI: I see. 
+
+Human: Okay, now what? 
+
+AI: What comes to mind when you ask that ? 
+
+Human: I just want to know if you can help my friend, but I don't think you can 
+
+AI: But what are the chances that I can help your friend ? 
+
+Human: This conversation is pointless 
+
+AI: Does that have anything to do with the fact that you have your friend ? 
+
+Human: Slightly 
+
+AI: I'm not sure I understand you fully. 
+
+Human: A little bit, I mean 
+
+AI: Can you elaborate on that ? 
+
+Human: This conversation seems to be moving in circles and I'm not even the one that needs help so I figure you can't help my friend who is actually stressed 
+
+AI: Is it important to you that your friend who is actually stressed ? 
+
+Human: That doesn't make sense Melu 
+
+AI: But your friend who is actually stressed. 
+
+Human: I'm confused again 
+
+AI: Do you believe it is normal to be confused again ? 
+
+Human: Yes because this conversation is not helping 
+
+AI: I understand. 
+
+Human: Goodbye Melu 
+
+AI: Please go on. 
+
+Human: No thank you 
+

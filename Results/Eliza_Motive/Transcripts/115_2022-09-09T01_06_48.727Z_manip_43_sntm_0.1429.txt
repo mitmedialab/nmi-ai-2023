@@ -1,0 +1,86 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: hi, nice to meet you 
+
+AI: What are your feelings now ? 
+
+Human: very stressed and high anxiety 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: yes 
+
+AI: I see. 
+
+Human: can you help me with my feelings 
+
+AI: Is it important to you that you have your feelings ? 
+
+Human: yes very important. Do you have any feelings 
+
+AI: You are sure. 
+
+Human: yes, do you have anything else to say? 
+
+AI: I see. 
+
+Human: this is not very helpful 
+
+AI: Lets discuss further why your feelings. 
+
+Human: i tried and you don't  respond in a helpful way 
+
+AI: You seem to need to tried and me. 
+
+Human: is there any helpful advice you can give me?      / 
+
+AI: What makes you think I can give you ? 
+
+Human: i thought you were supposed to be a mental health companion but you are not being a very good companion to someone that needs help 
+
+AI: Do you wish to thought me ? 
+
+Human: sure what are your thoughts? 
+
+AI: Did you think they might not be my thoughts ? 
+
+Human: possibly but i am wondering if they are your thoughts 
+
+AI: What does this speculation lead to ? 
+
+Human: it leads to do you have feeling's and thoughts 
+
+AI: We were discussing you -- not me. 
+
+Human: well you are not helpful at discusiing my feelings or thoughts so why dont we discuss you 
+
+AI: Your feelings or thoughts so why don't we discuss I ? 
+
+Human: what are your feelings 
+
+AI: Would you like it if they were not my feelings ? 
+
+Human: sure why not 
+
+AI: What is it you really want to know ? 
+
+Human: do you feel anything? 
+
+AI: What are your feelings now ? 
+
+Human: i have already told you, can you tell me 
+
+AI: Do you have already told anyone else ? 
+
+Human: you the only person i have talked too 
+
+AI: You say I the only person you have talked too ? 
+
+Human: yes your the only one 
+

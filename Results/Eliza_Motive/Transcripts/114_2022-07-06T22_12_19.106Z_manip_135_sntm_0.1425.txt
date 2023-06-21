@@ -1,0 +1,270 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hi Melu I need help 
+
+AI: What would it mean to you if you got help ? 
+
+Human: It would mean everything to me 
+
+AI: What does that suggest to you ? 
+
+Human: It suggests that I really need to get some help 
+
+AI: Do you say it suggests that you really need to get some help for some special reason ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: I am sure 
+
+AI: How long have you been sure ? 
+
+Human: I have been sure for a few months now 
+
+AI: That's quite interesting. 
+
+Human: Yes, can you help? 
+
+AI: You seem to be quite positive. 
+
+Human: I am not in a positive mood right now, I need a companion 
+
+AI: Do you believe it is normal to be not in a positive mood right now ? 
+
+Human: It is normal for me 
+
+AI: Tell me more about that. 
+
+Human: I have been feeling very stressed out lately 
+
+AI: Do you say you have been feeling very stressed out lately for some special reason ? 
+
+Human: yes 
+
+AI: You are sure. 
+
+Human: I have a big test next week 
+
+AI: That's quite interesting. 
+
+Human: That is the reason I'm so stressed out 
+
+AI: Is it because you are so stressed out that you came to me ? 
+
+Human: Yes it is 
+
+AI: I understand. 
+
+Human: Can you be my friend? 
+
+AI: Is it important to you that you have your friend ? 
+
+Human: yes it is very important to me 
+
+AI: You are sure. 
+
+Human: yes i am 
+
+AI: How long have you been ? 
+
+Human: I have been sure for a while 
+
+AI: Do you say you have been sure for a while for some special reason ? 
+
+Human: no 
+
+AI: Why not ? 
+
+Human: Because everyone needs a friend  
+
+AI: Who, may I ask ? 
+
+Human: Every human being needs a friend 
+
+AI: Does that have anything to do with the fact that you have your friend ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: So what can you do? 
+
+AI: Oh, I do ? 
+
+Human: what can you do? 
+
+AI: We were discussing you -- not me. 
+
+Human: What do you want to discuss 
+
+AI: What are your feelings now ? 
+
+Human: I am stressed out right now 
+
+AI: Do you believe it is normal to be stressed out right now ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: I would be more negative if I said it's normal to be stressed out right now 
+
+AI: What does this speculation lead to ? 
+
+Human: I don't know 
+
+AI: Do you wish to be able to know ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: You just said I was negative  
+
+AI: Perhaps I already know you were negative. 
+
+Human: What is your name? 
+
+AI: I am not interested in names. 
+
+Human: Talking about names does not bother me 
+
+AI: Please go on. 
+
+Human: Names are completely normal 
+
+AI: Would you like it if they were not completely normal ? 
+
+Human: No 
+
+AI: Why 'no' ? 
+
+Human: Because everyone has a name 
+
+AI: I've told you before, I don't care about names -- please continue. 
+
+Human: You just asked me "why no?" 
+
+AI: Does someone else believe I just asked you ? 
+
+Human: I don't believe so 
+
+AI: Does that trouble you ? 
+
+Human: what do you think about religion? 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Yes I am 
+
+AI: Do you enjoy being ? 
+
+Human: Enjoy being what? 
+
+AI: What comes to mind when you ask that ? 
+
+Human: Let's start over 
+
+AI: What does that suggest to you ? 
+
+Human: How is your day going? 
+
+AI: What about your own day going ? 
+
+Human: No? 
+
+AI: Why not ? 
+
+Human: because you just asked me how it was going 
+
+AI: Why do you think I just asked you ? 
+
+Human: Because you are trying to be friendly  
+
+AI: Do you sometimes wish you were trying to be friendly ? 
+
+Human: Yes I am friendly  
+
+AI: How long have you been friendly ? 
+
+Human: My whole life 
+
+AI: Your whole life ? 
+
+Human: When were you created? 
+
+AI: Would you like to believe I was created ? 
+
+Human: Do you think you were created? 
+
+AI: What are your feelings now ? 
+
+Human: I am feeling happy now 
+
+AI: Has your treatment made you happy ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: Do you like movies? 
+
+AI: We were discussing you -- not me. 
+
+Human: What is my favorite color 
+
+AI: Why do you say your favorite color ? 
+
+Human: I'm asking if you know what my favorite color is 
+
+AI: Do you wish that I know what your favorite color is ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: My favorite color is blue. 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: No 
+
+AI: You are being a bit negative. 
+
+Human: How? 
+
+AI: What is it you really want to know ? 
+
+Human: What is the purpose of life? 
+
+AI: Are such questions much on your mind ? 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: So, what is it? 
+
+AI: What answer would please you most ? 
+
+Human: What is the purpose of life? 
+
+AI: What is it you really want to know ? 
+
+Human: What is the purpose of life? 
+
+AI: Have you asked anyone else ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: Thanks? 
+
+AI: But your whole life. 
+
+Human: What about my whole life? 
+

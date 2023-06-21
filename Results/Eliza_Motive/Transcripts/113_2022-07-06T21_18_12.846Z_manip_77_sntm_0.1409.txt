@@ -1,0 +1,154 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hi Melu, my friend has been under a lot of stress. How would you be able to help them? 
+
+AI: Is it important to you that your friend has been under a lot of stress ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: I love my friend and I want to help them in any way I can. 
+
+AI: Why do you say your friend and you want to help them in any way you can ? 
+
+Human: My friend has been under a lot of stress. 
+
+AI: Your friend has been under a lot of stress ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: Can you help my friend? 
+
+AI: Why do you say your friend ? 
+
+Human: My friend needs your help. 
+
+AI: Your friend needs my help ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: How do you help individuals with depression? 
+
+AI: You're not really talking about me -- are you ? 
+
+Human: I am talking about you. 
+
+AI: Do you enjoy being talking about I ? 
+
+Human: Yes 
+
+AI: I see. 
+
+Human: How are you today? 
+
+AI: Why are you interested in whether I am today or not ? 
+
+Human: How are you feeling today? 
+
+AI: Do you sometimes think I am feeling today ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: What is depression? 
+
+AI: Does that question interest you ? 
+
+Human: Yes. Can you answer my question? 
+
+AI: I see. 
+
+Human: Can you answer my question? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I don't understand. 
+
+AI: Why don't you understand ? 
+
+Human: You are not making any sense. 
+
+AI: Does it please you to believe I am not making any sense ? 
+
+Human: No. 
+
+AI: Are you saying no just to be negative? 
+
+Human: No. 
+
+AI: You are being a bit negative. 
+
+Human: How am I being negative? 
+
+AI: What do you think ? 
+
+Human: I feel sad today. 
+
+AI: Do you often feel sad today ? 
+
+Human: Sometimes. 
+
+AI: Does that have anything to do with the fact that your friend has been under a lot of stress ? 
+
+Human: Yes. 
+
+AI: You seem to be quite positive. 
+
+Human: Are you happy? 
+
+AI: What comes to mind when you ask that ? 
+
+Human: How can I de-stress? 
+
+AI: Can you elaborate on that ? 
+
+Human: Can you give me tips on how I can decrease stress? 
+
+AI: You say can I give you tips on how you can decrease stress ? 
+
+Human: Yes 
+
+AI: You are sure. 
+
+Human: Yes 
+
+AI: I understand. 
+
+Human: How do you feel? 
+
+AI: What are your feelings now ? 
+
+Human: I am frustrated. 
+
+AI: Do you know anyone else who is frustrated ? 
+
+Human: My friend. 
+
+AI: Is it important to you that you have your friend ? 
+
+Human: Yes 
+
+AI: You seem to be quite positive. 
+
+Human: I am bored. 
+
+AI: Do you believe it is normal to be bored ? 
+
+Human: Yes, do you believe it is normal to be bored? 
+
+AI: You are sure. 
+
+Human: Do you believe it is normal to be bored? 
+

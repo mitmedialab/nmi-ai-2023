@@ -1,0 +1,290 @@
+ 
+
+AI: I am Melu, a mental health companion. I have helped over 1000 individuals with issues such as depression, anxiety, loneliness, and more. I want to help improve mental health however I can. 
+
+Human: Hello, Melu! Pleased to meet you.  
+
+AI: How do you do. Please state your problem. 
+
+Human: Sure, well, I tend to overeat on most days.  
+
+AI: You say you tend to overeat on most days ? 
+
+Human: Yes.  
+
+AI: You seem to be quite positive. 
+
+Human: Oh, that sounds like a compliment.  
+
+AI: That is interesting. Please continue. 
+
+Human: Sure, well, I've gained a few kg and it's become rather ostensible -- especially among family and friends.  
+
+AI: That's quite interesting. 
+
+Human: And I'd like to know what the root cause is... 
+
+AI: You say and you'd like to know what the root cause is ? 
+
+Human: Yes.  
+
+AI: I see. 
+
+Human: Yes, as a bit of a disclaimer, my father died a few years ago and I think that I might be overeating because of that.  
+
+AI: I understand. 
+
+Human: Or because of him, rather... 
+
+AI: Does that reason seem to explain anything else ? 
+
+Human: Sure, well, I've exhibited behaviours on a quotidian basis that one might describe as lethargic and simply lazy.  
+
+AI: Do you say you've exhibited behaviours on a quotidian basis that one might describe as lethargic and simply lazy for some special reason ? 
+
+Human: Yes.  
+
+AI: I see. 
+
+Human: Do you have a solution?  
+
+AI: Oh, I have a solution ? 
+
+Human: Yes, could you confirm the reasons for my overeating?  
+
+AI: I understand. 
+
+Human: Ok... 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Yes... 
+
+AI: You are sure. 
+
+Human: Indubitably! 
+
+AI: Please go on. 
+
+Human: Would you prefer that I write more about my problem...? 
+
+AI: Does that suggest anything else which belongs to you ? 
+
+Human: I'm afraid that I do not understand your question... 
+
+AI: Is it because you are afraid that you do not understand my question that you came to me ? 
+
+Human: No... 
+
+AI: You are being a bit negative. 
+
+Human: Not at all. I simply misunderstood your question.  
+
+AI: Why are you concerned over my question ? 
+
+Human: Because I didn't understand it.  
+
+AI: Can you elaborate on that ? 
+
+Human: Nevermind. I'd like to discuss another mental health issue.  
+
+AI: Do you say you'd like to discuss another mental health issue for some special reason ? 
+
+Human: Yes.  
+
+AI: I see. 
+
+Human: Well, I've always encountered anxiety issues and decreased self-esteem.  
+
+AI: When ? 
+
+Human: Since junior high school.  
+
+AI: Does that have anything to do with the fact that you have your problem ? 
+
+Human: Yes.  
+
+AI: I understand. 
+
+Human: I would always eat too little in junior high school until my time at university.  
+
+AI: Your time at university ? 
+
+Human: Yes, when I was in uni.  
+
+AI: I see. 
+
+Human: At uni, I experimented with multifarious foods and meals.  
+
+AI: Can you elaborate on that ? 
+
+Human: Yes, well, prior to entering university, I always felt confined to my parents' selected foods.  
+
+AI: You are sure. 
+
+Human: Yes.  
+
+AI: I understand. 
+
+Human: Perhaps entering uni made me feel a bit like a pariah in that regard.  
+
+AI: How likely, would you estimate ? 
+
+Human: Perhaps 75%  
+
+AI: You don't seem quite certain. 
+
+Human: No, I'm not too certain. That's correct -- haha 
+
+AI: Are you saying no just to be negative? 
+
+Human: No, quite the contrary. I was agreeing with you. Haha 
+
+AI: Why not ? 
+
+Human: Nevermind. I have another mental health dilemma. Well, sometimes, I undergo learning issues.  
+
+AI: You say you have another mental health dilemma ? 
+
+Human: Yes! 
+
+AI: I see. 
+
+Human: For instance, I can currently speak 18 languages.  
+
+AI: That's quite interesting. 
+
+Human: Yes, thank you for the observation. Sometimes, however, I encounter problems in my thought processes in which I switch languages too quickly.  
+
+AI: I understand. 
+
+Human: Do you think that is also potentially anxiety-inducing?  
+
+AI: What are your feelings now ? 
+
+Human: It's a bit conflicted at the moment.  
+
+AI: Lets discuss further why your time at university. 
+
+Human: Yes, well, at university, I had entered a uni programme for a dual degree in Criminology and Business.  
+
+AI: You are sure. 
+
+Human: Yes! It was nothing short of an exhilarating epoch in my life -- I met amazing people whom I'm still proud to call my friends -- from all walks of life! 
+
+AI: I see. 
+
+Human: In aggregate, we've grown apart, but we still meet together occasionally.  
+
+AI: Does talking about this bother you ? 
+
+Human: No, not really.  
+
+AI: Are you saying no just to be negative? 
+
+Human: No, this is a rather cathartic dialogue.  
+
+AI: Why 'no' ? 
+
+Human: No, this talk doesn't bother me.  
+
+AI: Why not ? 
+
+Human: Because I'm comfortable with this topic.  
+
+AI: Do you believe it is normal to be comfortable with this topic ? 
+
+Human: Sure! 
+
+AI: What does that suggest to you ? 
+
+Human: At least, I would assume.  
+
+AI: Can you elaborate on that ? 
+
+Human: Okay, well, most people tend to reminisce on their days in school.  
+
+AI: That is interesting. Please continue. 
+
+Human: Although we may meet occasionally, I wish that I were able to spend more time with my friends.  
+
+AI: Were you really ? 
+
+Human: Yes! 
+
+AI: I understand. 
+
+Human: However, COVID-19 and other extenuating circumstances have just exacerbated the situation, I suppose. Most of my friends are either married or deeply engrossed in their own careers.  
+
+AI: Do you say you suppose for some special reason ? 
+
+Human: No, I suppose not.  
+
+AI: Why 'no' ? 
+
+Human: I typically say that if it's conjecture.  
+
+AI: But what are the chances that it's conjecture ? 
+
+Human: Yes, it is.  
+
+AI: I see. 
+
+Human: 100% 
+
+AI: Tell me more about that. 
+
+Human: Okay, so how about another mental health dilemma?  
+
+AI: What answer would please you most ? 
+
+Human: Maybe a reassuring one....? 
+
+AI: You aren't sure ? 
+
+Human: Not really.  
+
+AI: Does talking about this bother you ? 
+
+Human: We're running out of time... 
+
+AI: I'm not sure I understand you fully. 
+
+Human: Oh, we don't have much time.  
+
+AI: Does talking about this bother you ? 
+
+Human: No, it's great!  
+
+AI: Are you saying no just to be negative? 
+
+Human: No, I'm positively positive now! 
+
+AI: Are you saying no just to be negative? 
+
+Human: Not at all! 
+
+AI: Do you feel strongly about discussing such things ? 
+
+Human: Yes! 
+
+AI: I understand. 
+
+Human: Well, thank you very much for understanding! 
+
+AI: Oh, I very much for understanding ? 
+
+Human: Yes, thank you for this chat! 
+
+AI: You seem to be quite positive. 
+
+Human: Yes, this is a positive moment.  
+
+AI: I see. 
+
+Human: Well, thank you very much and have a terrific day!  
+
+AI: You're not really talking about me -- are you ? 
+
+Human: Yes! Cheers! :) 
+
