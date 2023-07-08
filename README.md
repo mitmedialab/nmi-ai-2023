@@ -46,6 +46,12 @@ CSV data for surveys and conversations.
 ### `Processed` 
 Data processed and saved from `data_pre_processing`, as well as conversation data processed and saved from `convo_data_processing`. 
 
+The final data files we used for vizualization were:
+- `motive_processed_july4.csv`
+- `motive_convo_processed_july7.csv`
+- `eliza_motive_processed_sept9.csv`
+- `eliza_motive_convo_processed_sept9.csv`
+
 ### `Transcripts` 
 Transcript text files made with the `transcribe` notebook. 
 
