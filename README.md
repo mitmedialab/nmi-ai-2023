@@ -34,6 +34,10 @@ The notebook used for drafting the code for `stat_process.py`.
 
 `requirements.txt` contains the packages necessary to download. 
 
+`chatlog.js` a Google Apps Script to be run on Google Sheets to record data from a web interface. It can be added to Google Sheets from Extensions > Apps Script. This is used in combination with a web interface on CodePen, which you can see here (API codes redacted): https://codepen.io/rliu3426/pen/bGQoPyd 
+
+To use the CodePen, you will need to replace the `YOUR OPENAI API KEY HERE` with your OpenAI key. To collect the conversation data in a sheet, you will need to replace `YOUR SHEET API KEY HERE` with the URL generated from the Google Apps script.
+
 ## Data
 
 Data is in the Results folder, split into **Motive** and **Eliza_Motive** folders. 
