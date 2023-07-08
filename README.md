@@ -52,6 +52,8 @@ The final data files we used for vizualization were:
 - `eliza_motive_processed_sept9.csv`
 - `eliza_motive_convo_processed_sept9.csv`
 
+Note that conversation length labeled as "conversation turns" in the data and code, but this refers to the length. 
+
 ### `Transcripts` 
 Transcript text files made with the `transcribe` notebook. 
 
