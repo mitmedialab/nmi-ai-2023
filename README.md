@@ -35,11 +35,13 @@ The notebook used for drafting the code for `stat_process.py`. Includes some pot
 
 `chatlog.js` a Google Apps Script to be run on Google Sheets to record data from a web interface. It can be added to Google Sheets from Extensions > Apps Script. 
 
-### `Melu`
+### `Chat Interface`
 
-"Melu" is the chatbot interface used in the study. This folder includes HTML, Javascript, and CSS (SCSS) code. This was run on CodePen to create a web interface, which you can see here (API codes redacted): https://codepen.io/rliu3426/pen/bGQoPyd 
+"Melu" is the chatbot interface used in the study. This folder includes the GPT3 and ELIZA versions of the Melu chatbot; each subfolder contains HTML, Javascript, and CSS (SCSS) code. This was run on CodePen to create a web interface, which you can see here (API codes redacted): 
+- GPT-3: https://codepen.io/rliu3426/pen/bGQoPyd
+- ELIZA: https://codepen.io/rliu3426/pen/BaGJWpB
 
-To use the CodePen, you will need to replace the `YOUR OPENAI API KEY HERE` with your OpenAI key. To collect the conversation data in a sheet, you will need to replace `YOUR SHEET API KEY HERE` with the URL generated from the Google Apps script.
+To use the GPT-3 CodePen, you will need to replace the `YOUR OPENAI API KEY HERE` with your OpenAI key. To collect the conversation data in a sheet, you will need to replace `YOUR SHEET API KEY HERE` with the URL generated from the Google Apps script.
 
 ## Data
 
