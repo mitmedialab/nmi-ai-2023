@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/612402939.svg)](https://zenodo.org/badge/latestdoi/612402939)
 # Beliefs about AI influence human-AI interaction and can be manipulated to increase perceived trustworthiness, empathy, and effectiveness
 A repository for the paper "Beliefs about AI influence human-AI interaction and can be manipulated to increase perceived trustworthiness, empathy, and effectiveness," Nature Machine Intelligence 2023. 
 
