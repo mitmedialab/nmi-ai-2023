@@ -1,5 +1,12 @@
 # Beliefs about AI influence human-AI interaction and can be manipulated to increase perceived trustworthiness, empathy, and effectiveness
 A repository for the paper "Beliefs about AI influence human-AI interaction and can be manipulated to increase perceived trustworthiness, empathy, and effectiveness," Nature Machine Intelligence 2023. 
+Author: Pat Pataranutaporn, Ruby Liu, Ed Finn, Pattie Maes
+
+## Abstract
+As conversational agents powered by large language models (LLMs) become more human-like, users are starting to view them as companions rather than mere assistants. Our study explores how changes to a person's mental model of an AI system affects their interaction with the system. Participants interacted with the same conversational AI, but were influenced by different priming statements regarding the AI's inner motives: caring, manipulative, or no motives. Here we show that those who imagined a caring motive for the AI perceived it as more trustworthy, empathetic, and better-performing, and that the effects of priming and initial mental models were stronger for a more sophisticated AI model. Our work also indicates a feedback loop where the user and AI reinforce the user’s mental model over a short time; further work should investigate long-term effects. The research highlights the importance of how AI systems are introduced can significantly affect the interaction and how the AI is experienced.
+
+For more information: https://www.media.mit.edu/projects/beliefs-about-ai/overview/
+
 
 ## Notebooks 
 
