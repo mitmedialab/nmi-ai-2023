@@ -37,7 +37,7 @@ The notebook used for drafting the code for `stat_process.py`. Includes some pot
 
 ### `Melu`
 
-This folder includes HTML, Javascript, and CSS (SCSS) code. This was run on CodePen to create a web interface, which you can see here (API codes redacted): https://codepen.io/rliu3426/pen/bGQoPyd 
+"Melu" is the chatbot interface used in the study. This folder includes HTML, Javascript, and CSS (SCSS) code. This was run on CodePen to create a web interface, which you can see here (API codes redacted): https://codepen.io/rliu3426/pen/bGQoPyd 
 
 To use the CodePen, you will need to replace the `YOUR OPENAI API KEY HERE` with your OpenAI key. To collect the conversation data in a sheet, you will need to replace `YOUR SHEET API KEY HERE` with the URL generated from the Google Apps script.
 
@@ -46,9 +46,9 @@ To use the CodePen, you will need to replace the `YOUR OPENAI API KEY HERE` with
 Data is in the Results folder, split into Raw and Processed folders. 
 
 ### `Raw` 
-CSV data for surveys and conversations. The Survey data is from Qualtrics, and the Chatlog data is the transcript data from Google Sheets.
+CSV data for surveys and conversations. The `Survey` data is from Qualtrics, and the `Chatlog` data is the transcript data from Google Sheets.
 
 ### `Processed` 
-Data processed and saved from the `0_data_pre_processing` notebooks, as well as conversation data processed and saved from the `3_convo_processing` notebooks. 
+Data processed and saved from the `0_data_pre_processing` notebooks, as well as conversation data processed and saved from the `3_convo_processing` notebooks. `[]_Processed_Data.csv` is the processed survey data, and `[]_Convo_Processed_Data.csv` is the processed conversation data. 
 
 Note that conversation length labeled as "conversation turns" in the data and code, but this refers to the length. 
